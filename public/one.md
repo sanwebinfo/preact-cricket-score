@@ -1,16 +1,16 @@
 ---
 title: "Australia vs India, 3rd Test - Live Cricket Score"
-date: 2024-12-14T08:00:18.308+05:30
 ---
 
-🔴 Live Score - AUS 28/0 (13.2)  
+🔴 Live Score - IND 51/4 (17)  
 
-📊 Run Rate - CRR: 2.1  
+📊 Run Rate - CRR: 3  
 
-✊ Current Batsman - Nathan McSweeney - 4(33)  
+✊ Current Batsman - KL Rahul - 33(64)  
 
-✊ Current Bowler - Akash Deep - 3.2 Over 2 Run - 0 Wicket  
+✊ Current Bowler - Travis Head - 1 Over 1 Run - 0 Wicket  
 
-📑 Status - Day 1: Lunch Break
+📑 Status - Day 3: Stumps - India trail by 394 runs
 
-📝 Last Updated on : 12/14/2024, 8:00:18 AM
+📝 Last Updated on : 12/16/2024, 3:02:07 PM  
+
