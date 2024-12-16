@@ -39,7 +39,7 @@ export default function LiveScoreDisplay({ markdownUrl, onContentChange, onRefre
       {markdownUrl && (
         <div class="field has-text-centered">
           <button class="button is-info mb-3" onClick={fetchContent}>
-            Refresh Content
+            Refresh Score
           </button>
         </div>
       )}

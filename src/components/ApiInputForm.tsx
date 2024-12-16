@@ -34,6 +34,7 @@ export default function ApiInputForm({ onSave }: ApiInputFormProps) {
     setTimeout(() => {
       setError("");
       setSuccess(false);
+      window.location.reload();
     }, 2000);
   };
 
@@ -58,13 +59,13 @@ export default function ApiInputForm({ onSave }: ApiInputFormProps) {
 
         <div class="has-text-centered">
           <button class="button is-info mt-3" onClick={handleSave}>
-            Get Score
+            Save
           </button>
         </div>
 
         <div class="mt-2">
           {error && <div class="notification is-danger">{error}</div>}
-          {success && <div class="notification is-success has-text-centered">{`Current Live Match URL Updated`}</div>}
+          {success && <div class="notification is-success has-text-centered">{`Live Match Score Page Updated`}</div>}
         </div>
       </div>
   );
