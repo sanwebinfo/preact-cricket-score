@@ -1,0 +1,211 @@
+html, body {
+	min-height: 100vh;
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+	font-family: "Ubuntu Mono", serif;
+}
+body {
+	background-color: #ddf169;
+	color: #121212;
+	padding-bottom: 20px;
+  
+}
+.terminal-style {
+	background-color: #e4ccf5;
+	color: #121212;
+	border: 1px solid #121212;
+	font-family: "Ubuntu Mono", serif;
+}
+body.dark-mode {
+	background-color: #292929;
+	color: #e0e0e0;
+}
+
+.dark-mode .terminal-style {
+	background-color: #2b1b19;
+	color: #39ff14;
+	border: 1px solid #39ff14;
+}
+
+.terminal-window {
+	background-color: #1a1a1a;
+	color: #39ff14;
+	border: 1px solid #39ff14;
+}
+
+.dark-mode-toggle {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 20px;
+}
+
+.switch {
+	position: relative;
+	display: inline-block;
+	width: 50px;
+	height: 25px;
+}
+
+.switch input {
+	opacity: 0;
+	width: 0;
+	height: 0;
+}
+
+.slider {
+	position: absolute;
+	cursor: pointer;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #ff4d4d;
+	transition: 0.4s;
+	border-radius: 34px;
+}
+
+.slider:before {
+	position: absolute;
+	content: "";
+	height: 19px;
+	width: 19px;
+	left: 3px;
+	bottom: 3px;
+	background-color: white;
+	transition: 0.4s;
+	border-radius: 50%;
+}
+
+input:checked + .slider {
+	background-color: #39ff14;
+}
+
+input:checked + .slider:before {
+	transform: translateX(24px);
+}
+
+.form-group {
+	margin-bottom: 15px;
+	color: #e0e0e0;
+	font-family: "Ubuntu Mono", serif;
+}
+
+input[type="text"], textarea {
+	background-color: #1a1a1a;
+	color: #39ff14;
+	border: 1px solid #39ff14;
+	padding: 10px;
+	border-radius: 5px;
+	width: 100%;
+	margin-bottom: 15px;
+	box-sizing: border-box;
+	font-family: "Ubuntu Mono", serif;
+}
+
+.notifications-section {
+	position: fixed;
+	top: 10px;
+	left: 0;
+	right: 0;
+	padding: 10px;
+	z-index: 10;
+	display: flex;
+	justify-content: center;
+	font-family: "Ubuntu Mono", serif;
+	gap: 10px;
+}
+
+.notification {
+	background-color: #39ff14;
+	font-family: "Ubuntu Mono", serif;
+	color: black;
+	padding: 10px;
+	border-radius: 5px;
+	box-shadow: 0 4px 8px rgba(0, 255, 0, 0.1);
+	font-size: 14px;
+	margin-top: 10px;
+	transition: opacity 0.5s ease;
+}
+
+.notification.is-danger {
+	background-color: #ff4d4d;
+}
+
+.notification.is-light {
+	background-color: #f4f4f4;
+	color: black;
+}
+
+.notification.is-success {
+	background-color: #33cc00;
+}
+
+.notification.fade-out {
+	opacity: 0;
+	transition: opacity 1s ease-out;
+}
+
+button:focus, input:focus {
+	outline: none;
+	box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+}
+
+.terminal-window {
+	background-color: #000000;
+	color: #39ff14;
+	padding: 20px;
+	border: 1px solid #39ff14;
+	border-radius: 5px;
+	box-shadow: 0 4px 10px rgba(0, 255, 0, 0.2);
+}
+
+h2, p, .title {
+	text-align: center;
+	font-family: "Ubuntu Mono", serif;
+}
+
+pre {
+	background-color: #1e0922;
+	font-family: "Ubuntu Mono", serif;
+	color: #39ff14;
+	padding: 15px;
+	border-radius: 5px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+}
+.button {
+	font-family: "Ubuntu Mono", serif;
+}
+.input {
+	font-family: "Ubuntu Mono", serif;
+}
+.text-mode {
+	color: rgb(248, 26, 74);
+	font-family: "Ubuntu Mono", serif;
+}
+.dark-mode .text-mode {
+	color: rgb(170, 248, 26);
+	font-family: "Ubuntu Mono", serif;
+}
+.dark-mode pre {
+	background-color: #291010;
+	font-family: "Ubuntu Mono", serif;
+	color: #39ff14;
+	padding: 15px;
+	border-radius: 5px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+}
+.select {
+	font-family: "Ubuntu Mono", serif;
+}
+select {
+	font-family: "Ubuntu Mono", serif;
+}
+option {
+	color: white;
+	background: #212209;
+	font-family: "Ubuntu Mono", serif;
+}
