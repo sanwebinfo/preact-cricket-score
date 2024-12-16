@@ -6,7 +6,7 @@ html, body {
 	font-family: "Ubuntu Mono", serif;
 }
 body {
-	background-color: #ddf169;
+	background-color: #dff9fb;
 	color: #121212;
 	padding-bottom: 20px;
   
@@ -14,7 +14,6 @@ body {
 .terminal-style {
 	background-color: #e4ccf5;
 	color: #121212;
-	border: 1px solid #121212;
 	font-family: "Ubuntu Mono", serif;
 }
 body.dark-mode {
@@ -24,14 +23,13 @@ body.dark-mode {
 
 .dark-mode .terminal-style {
 	background-color: #2b1b19;
-	color: #39ff14;
-	border: 1px solid #39ff14;
+	color: #4cd137;
 }
 
 .terminal-window {
 	background-color: #1a1a1a;
-	color: #39ff14;
-	border: 1px solid #39ff14;
+	color: #44bd32;
+	border: 1px solid #44bd32;
 }
 
 .dark-mode-toggle {
@@ -79,7 +77,7 @@ body.dark-mode {
 }
 
 input:checked + .slider {
-	background-color: #39ff14;
+	background-color: #7bed9f;
 }
 
 input:checked + .slider:before {
@@ -94,8 +92,8 @@ input:checked + .slider:before {
 
 input[type="text"], textarea {
 	background-color: #1a1a1a;
-	color: #39ff14;
-	border: 1px solid #39ff14;
+	color: #7bed9f;
+	border: 1px solid #7bed9f;
 	padding: 10px;
 	border-radius: 5px;
 	width: 100%;
@@ -118,7 +116,7 @@ input[type="text"], textarea {
 }
 
 .notification {
-	background-color: #39ff14;
+	background-color: #7bed9f;
 	font-family: "Ubuntu Mono", serif;
 	color: black;
 	padding: 10px;
@@ -139,7 +137,7 @@ input[type="text"], textarea {
 }
 
 .notification.is-success {
-	background-color: #33cc00;
+	background-color: #7bed9f;
 }
 
 .notification.fade-out {
@@ -149,14 +147,14 @@ input[type="text"], textarea {
 
 button:focus, input:focus {
 	outline: none;
-	box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+	box-shadow: 0 0 10px #7bed9f;
 }
 
 .terminal-window {
 	background-color: #000000;
-	color: #39ff14;
+	color: #7bed9f;
 	padding: 20px;
-	border: 1px solid #39ff14;
+	border: 1px solid #7bed9f;
 	border-radius: 5px;
 	box-shadow: 0 4px 10px rgba(0, 255, 0, 0.2);
 }
@@ -169,7 +167,7 @@ h2, p, .title {
 pre {
 	background-color: #1e0922;
 	font-family: "Ubuntu Mono", serif;
-	color: #39ff14;
+	color: #7bed9f;
 	padding: 15px;
 	border-radius: 5px;
 	overflow-x: auto;
@@ -182,17 +180,17 @@ pre {
 	font-family: "Ubuntu Mono", serif;
 }
 .text-mode {
-	color: rgb(248, 26, 74);
+	color: #2f3542;
 	font-family: "Ubuntu Mono", serif;
 }
 .dark-mode .text-mode {
-	color: rgb(170, 248, 26);
+	color: #A3CB38;
 	font-family: "Ubuntu Mono", serif;
 }
 .dark-mode pre {
 	background-color: #291010;
 	font-family: "Ubuntu Mono", serif;
-	color: #39ff14;
+	color: #7bed9f;
 	padding: 15px;
 	border-radius: 5px;
 	overflow-x: auto;
@@ -208,4 +206,17 @@ option {
 	color: white;
 	background: #212209;
 	font-family: "Ubuntu Mono", serif;
+}
+.box {
+	border: none;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+}
+.shadow-box:hover {
+	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+.button {
+	border: none;
+	box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
 }
