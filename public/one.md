@@ -12,5 +12,5 @@ title: "Australia vs India, 3rd Test - Live Cricket Score"
 
 📑 Status - Day 3: Stumps - India trail by 394 runs
 
-📝 Last Updated on : 12/16/2024, 3:02:07 PM  
+📝 Last Updated on : 12/16/2024, 3:09:22 PM  
 
