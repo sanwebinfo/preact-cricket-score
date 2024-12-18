@@ -2,15 +2,15 @@
 title: "Australia vs India, 3rd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 252/9 (74.5)  
+🔴 Live Score - IND 260 (78.5)  
 
-📊 Run Rate - CRR: 3.37  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Akash Deep - 27(31)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Pat Cummins - 20.5 Over 80 Run - 4 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Day 4: Stumps - India trail by 193 runs
+📑 Status - Day 5: Match delayed due to rain - India trail by 185 runs
 
-📝 Last Updated on : 12/17/2024, 5:56:42 PM  
+📝 Last Updated on : 12/18/2024, 6:37:15 AM  
 
