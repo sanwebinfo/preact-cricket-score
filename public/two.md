@@ -1,8 +1,8 @@
 ---
-title: "New Zealand vs England, 3rd Test - Live Cricket Score"
+title: "South Africa vs Pakistan, 1st Test - Live Cricket Score"
 --- 
 
-📑 Status - New Zealand won by 423 runs
+📑 Status - Date: 2024-12-26 - Time: 01:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 12/17/2024, 9:06:08 AM  
+📝 Last Updated on : 12/25/2024, 9:49:03 AM  
 
