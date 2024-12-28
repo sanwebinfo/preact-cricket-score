@@ -8,9 +8,9 @@ title: "Australia vs India, 4th Test - Live Cricket Score"
 
 ✊ Current Batsman - Nitish Kumar Reddy - 105(176)  
 
-✊ Current Bowler - Scott Boland - 27 Over 57 Run - 3 Wicket  
+✊ Current Bowler - Nathan Lyon - 27 Over 88 Run - 2 Wicket  
 
-📑 Status - Day 3: Bad light stops play - India trail by 116 runs
+📑 Status - Day 3: Stumps - India trail by 116 runs
 
-📝 Last Updated on : 12/28/2024, 12:00:04 PM  
+📝 Last Updated on : 12/28/2024, 1:08:04 PM  
 
