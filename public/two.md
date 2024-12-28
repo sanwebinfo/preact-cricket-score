@@ -2,17 +2,17 @@
 title: "South Africa vs Pakistan, 1st Test - Live Cricket Score"
 ---
 
-🔴 Live Score - RSA 82/3 (22)  
+🔴 Live Score - PAK 211 & 88/3 (22)  
 
-📊 Run Rate - CRR: 3.73  
+📊 Run Rate - CRR: 4  
 
-✊ Current Batsman - Aiden Markram - 47(67)  
+✊ Current Batsman - Saud Shakeel - 8(8)  
 
-✊ Current Bowler - Mohammad Abbas - 10 Over 36 Run - 1 Wicket  
+✊ Current Bowler - Dane Paterson - 8 Over 19 Run - 0 Wicket  
 
-📑 Status - Day 1: Stumps - South Africa trail by 129 runs
+📑 Status - Day 2: Stumps - Pakistan trail by 2 runs
 
-📝 Last Updated on : 12/27/2024, 9:58:03 AM  
+📝 Last Updated on : 12/28/2024, 7:30:36 AM  
 
 
 
