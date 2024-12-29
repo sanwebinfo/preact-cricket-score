@@ -2,15 +2,15 @@
 title: "Australia vs India, 4th Test - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 358/9 (116)  
+🔴 Live Score - AUS 474 & 37/1 (14.2)  
 
-📊 Run Rate - CRR: 3.09  
+📊 Run Rate - CRR: 2.58  
 
-✊ Current Batsman - Nitish Kumar Reddy - 105(176)  
+✊ Current Batsman - Usman Khawaja - 19(49)  
 
-✊ Current Bowler - Nathan Lyon - 27 Over 88 Run - 2 Wicket  
+✊ Current Bowler - Mohammed Siraj - 2.2 Over 9 Run - 0 Wicket  
 
-📑 Status - Day 3: Stumps - India trail by 116 runs
+📑 Status - Day 4: 1st Session - Australia lead by 142 runs
 
-📝 Last Updated on : 12/28/2024, 1:08:04 PM  
+📝 Last Updated on : 12/29/2024, 6:13:24 AM  
 
