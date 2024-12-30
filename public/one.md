@@ -2,15 +2,15 @@
 title: "Australia vs India, 4th Test - Live Cricket Score"
 ---
 
-🔴 Live Score - AUS 474 & 135/6 (49)  
+🔴 Live Score - IND 369 & 77/3 (38.4)  
 
-📊 Run Rate - CRR: 2.76  
+📊 Run Rate - CRR: 1.99  
 
-✊ Current Batsman - Marnus Labuschagne - 65(118)  
+✊ Current Batsman - Yashasvi Jaiswal - 44(122)  
 
-✊ Current Bowler - Ravindra Jadeja - 4 Over 10 Run - 0 Wicket  
+✊ Current Bowler - Pat Cummins - 10.4 Over 16 Run - 2 Wicket  
 
-📑 Status - Day 4: Tea Break - Australia lead by 240 runs
+📑 Status - Day 5: 2nd Session - India need 263 runs
 
-📝 Last Updated on : 12/29/2024, 9:48:21 AM  
+📝 Last Updated on : 12/30/2024, 8:37:36 AM  
 
