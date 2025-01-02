@@ -1,8 +1,8 @@
 ---
-title: "Australia vs India, 4th Test - Live Cricket Score"
+title: "Australia vs India, 5th Test - Live Cricket Score"
 ---
 
-📑 Status - Australia won by 184 runs
+📑 Status - Date: 2025-01-03 - Time: 05:00:00 AM (Indian Local Time)
 
-📝 Last Updated on : 12/30/2024, 1:26:05 PM  
+📝 Last Updated on : 1/2/2025, 6:17:51 PM  
 
