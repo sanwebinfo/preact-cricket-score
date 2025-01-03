@@ -2,17 +2,17 @@
 title: "Zimbabwe vs Afghanistan, 2nd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - AFG 25/0 (10)  
+🔴 Live Score - ZIM 6/0 (3)  
 
-📊 Run Rate - CRR: 2.5  
+📊 Run Rate - CRR: 2  
 
-✊ Current Batsman - Riaz Hassan - 12(27)  
+✊ Current Batsman - Ben Curran - 1(5)  
 
-✊ Current Bowler - Richard Ngarava - 5 Over 9 Run - 0 Wicket  
+✊ Current Bowler - Rashid Khan - 1 Over 1 Run - 0 Wicket  
 
-📑 Status - Day 1: 2nd Session
+📑 Status - Day 1: Stumps - Zimbabwe trail by 151 runs
 
-📝 Last Updated on : 1/2/2025, 6:19:25 PM  
+📝 Last Updated on : 1/3/2025, 8:03:05 AM  
 
 
 
