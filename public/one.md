@@ -2,7 +2,7 @@
 title: "Australia vs India, 5th Test - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 168/9 (68.2)  
+🔴 Live Score - AUS 9/1 (3)  
 
 📊 Run Rate - CRR: Match Stats will Update Soon  
 
@@ -10,7 +10,7 @@ title: "Australia vs India, 5th Test - Live Cricket Score"
 
 ✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Day 1: 3rd Session
+📑 Status - Day 1: Stumps - Australia trail by 176 runs
 
-📝 Last Updated on : 1/3/2025, 11:42:00 AM  
+📝 Last Updated on : 1/3/2025, 1:19:13 PM  
 
