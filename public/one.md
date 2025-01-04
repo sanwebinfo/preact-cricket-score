@@ -2,15 +2,15 @@
 title: "Australia vs India, 5th Test - Live Cricket Score"
 ---
 
-🔴 Live Score - AUS 9/1 (3)  
+🔴 Live Score - AUS 131/5 (36.5)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 3.56  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Beau Webster - 39(75)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Mohammed Siraj - 12.5 Over 42 Run - 2 Wicket  
 
-📑 Status - Day 1: Stumps - Australia trail by 176 runs
+📑 Status - Day 2: 2nd Session - Australia trail by 54 runs
 
-📝 Last Updated on : 1/3/2025, 1:19:13 PM  
+📝 Last Updated on : 1/4/2025, 8:19:13 AM  
 
