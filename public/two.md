@@ -2,17 +2,17 @@
 title: "Zimbabwe vs Afghanistan, 2nd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - AFG 157 & 225/6 (77.2)  
+🔴 Live Score - AFG 157 & 291/7 (91)  
 
-📊 Run Rate - CRR: 2.91  
+📊 Run Rate - CRR: 3.2  
 
-✊ Current Batsman - Rahmat Shah - 119(241)  
+✊ Current Batsman - Ismat Alam - 64(122)  
 
-✊ Current Bowler - Sikandar Raza - 22.2 Over 57 Run - 1 Wicket  
+✊ Current Bowler - Newman Nyamhuri - 14 Over 55 Run - 0 Wicket  
 
-📑 Status - Day 3: 3rd Session - Afghanistan lead by 139 runs
+📑 Status - Day 3: Stumps - Afghanistan lead by 205 runs
 
-📝 Last Updated on : 1/4/2025, 6:56:18 PM  
+📝 Last Updated on : 1/5/2025, 10:38:40 AM  
 
 
 
