@@ -13,8 +13,8 @@ importers:
         version: 10.25.4
     devDependencies:
       '@preact/preset-vite':
-        specifier: ^2.9.3
-        version: 2.9.3(@babel/core@7.26.0)(preact@10.25.4)(vite@6.0.6)
+        specifier: ^2.9.4
+        version: 2.9.4(@babel/core@7.26.0)(preact@10.25.4)(vite@6.0.6)
       typescript:
         specifier: ^5.7.2
         version: 5.7.2
@@ -285,8 +285,8 @@ packages:
   '@jridgewell/trace-mapping@0.3.25':
     resolution: {integrity: sha512-vNk6aEwybGtawWmy/PzwnGDOjCkLWSD2wqvjGGAgOAwCGWySYXfYoxt00IJkTF+8Lb57DwOb3Aa0o9CApepiYQ==}
 
-  '@preact/preset-vite@2.9.3':
-    resolution: {integrity: sha512-uVDSKsFnPa/bmRTAcPiYpTvC04T1lhIH2ho3CJZLYibwcwliElS/i64iyATZkgR4DJxSc/JwOCSQS4IF/a03OQ==}
+  '@preact/preset-vite@2.9.4':
+    resolution: {integrity: sha512-PpPnUlKUsbWZ2oBuAkAMnezhIYGsR7xi2EZcPjeTAjF1DhGl00IcPD1ZeXRFKp38i7Hk4kEdFlwpJ1525cAzpg==}
     peerDependencies:
       '@babel/core': 7.x
       vite: 2.x || 3.x || 4.x || 5.x || 6.x
@@ -849,7 +849,7 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.0
 
-  '@preact/preset-vite@2.9.3(@babel/core@7.26.0)(preact@10.25.4)(vite@6.0.6)':
+  '@preact/preset-vite@2.9.4(@babel/core@7.26.0)(preact@10.25.4)(vite@6.0.6)':
     dependencies:
       '@babel/code-frame': 7.26.2
       '@babel/core': 7.26.0
