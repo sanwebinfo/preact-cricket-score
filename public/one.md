@@ -1,8 +1,8 @@
 ---
-title: "Australia vs India, 5th Test - Live Cricket Score"
+title: "India vs England, 2nd T20I - Live Cricket Score"
 ---
 
-📑 Status - Australia won by 6 wkts
+📑 Status - Date: 2025-01-25 - Time: 07:00:00 PM (Indian Local Time)
 
-📝 Last Updated on : 1/5/2025, 9:34:54 AM  
+📝 Last Updated on : 1/24/2025, 6:42:02 PM  
 
