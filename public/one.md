@@ -1,8 +1,8 @@
 ---
-title: "India vs England, 4th T20I - Live Cricket Score"
+title: "India vs England, 5th T20I - Live Cricket Score"
 ---
 
-📑 Status - India won by 15 runs
+📑 Status - India won by 150 runs
 
-📝 Last Updated on : 1/31/2025, 11:10:34 PM  
+📝 Last Updated on : 2/3/2025, 7:44:22 AM  
 
