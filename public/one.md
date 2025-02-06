@@ -1,8 +1,16 @@
 ---
-title: "India vs England, 5th T20I - Live Cricket Score"
+title: "India vs England, 1st ODI - Live Cricket Score"
 ---
 
-📑 Status - India won by 150 runs
+🔴 Live Score - IND 5/0 (1.2)  
 
-📝 Last Updated on : 2/3/2025, 7:44:22 AM  
+📊 Run Rate - CRR: 3.75  
+
+✊ Current Batsman - Yashasvi Jaiswal - 5(5)  
+
+✊ Current Bowler - Saqib Mahmood - 0.2 Over 4 Run - 0 Wicket  
+
+📑 Status - India need 244 runs
+
+📝 Last Updated on : 2/6/2025, 5:47:01 PM  
 
