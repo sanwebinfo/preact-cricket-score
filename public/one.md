@@ -2,15 +2,15 @@
 title: "India vs England, 1st ODI - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 5/0 (1.2)  
+🔴 Live Score - IND 37/2 (6.5)  
 
-📊 Run Rate - CRR: 3.75  
+📊 Run Rate - CRR: 5.41  
 
-✊ Current Batsman - Yashasvi Jaiswal - 5(5)  
+✊ Current Batsman - Shreyas Iyer - 12(7)  
 
-✊ Current Bowler - Saqib Mahmood - 0.2 Over 4 Run - 0 Wicket  
+✊ Current Bowler - Jofra Archer - 3.5 Over 10 Run - 1 Wicket  
 
-📑 Status - India need 244 runs
+📑 Status - India need 212 runs
 
-📝 Last Updated on : 2/6/2025, 5:47:01 PM  
+📝 Last Updated on : 2/6/2025, 6:14:40 PM  
 
