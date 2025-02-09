@@ -1,8 +1,16 @@
 ---
-title: "India vs England, 1st ODI - Live Cricket Score"
+title: "India vs England, 2nd ODI - Live Cricket Score"
 ---
 
-📑 Status - India won by 4 wkts
+🔴 Live Score - ENG 297/8 (48.5)  
 
-📝 Last Updated on : 2/6/2025, 10:13:16 PM  
+📊 Run Rate - CRR: 6.08  
+
+✊ Current Batsman - Mark Wood - 0(0)  
+
+✊ Current Bowler - Harshit Rana - 8.5 Over 62 Run - 1 Wicket  
+
+📑 Status - England opt to bat
+
+📝 Last Updated on : 2/9/2025, 5:08:06 PM  
 
