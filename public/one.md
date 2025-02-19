@@ -2,15 +2,15 @@
 title: "Pakistan vs New Zealand, 1st Match, Group A - Live Cricket Score"
 ---
 
-🔴 Live Score - NZ 317/5 (49.5)  
+🔴 Live Score - PAK 21/1 (9.3)  
 
-📊 Run Rate - CRR: 6.36  
+📊 Run Rate - CRR: 2.21  
 
-✊ Current Batsman - Tom Latham - 115(103)  
+✊ Current Batsman - Babar Azam - 11(25)  
 
-✊ Current Bowler - Haris Rauf - 9.5 Over 80 Run - 2 Wicket  
+✊ Current Bowler - William ORourke - 4.3 Over 12 Run - 1 Wicket  
 
-📑 Status - Pakistan opt to bowl
+📑 Status - Pakistan need 300 runs
 
-📝 Last Updated on : 2/19/2025, 6:36:44 PM  
+📝 Last Updated on : 2/19/2025, 7:49:36 PM  
 
