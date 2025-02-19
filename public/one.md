@@ -1,8 +1,8 @@
 ---
-title: "India vs England, 3rd ODI - Live Cricket Score"
+title: "Pakistan vs New Zealand, 1st Match, Group A - Live Cricket Score"
 ---
 
-📑 Status - India won by 142 runs
+📑 Status - Date: 2025-02-19 - Time: 02:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 2/13/2025, 7:48:39 AM  
+📝 Last Updated on : 2/19/2025, 9:57:28 AM  
 
