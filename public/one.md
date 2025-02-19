@@ -2,15 +2,15 @@
 title: "Pakistan vs New Zealand, 1st Match, Group A - Live Cricket Score"
 ---
 
-🔴 Live Score - PAK 89/3 (26.2)  
+🔴 Live Score - PAK 229/8 (43.4)  
 
-📊 Run Rate - CRR: 3.38  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Salman Agha - 12(14)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Glenn Phillips - 5.2 Over 26 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Pakistan need 232 runs
+📑 Status - Pakistan need 92 runs in 38 balls
 
-📝 Last Updated on : 2/19/2025, 8:54:59 PM  
+📝 Last Updated on : 2/19/2025, 10:04:45 PM  
 
