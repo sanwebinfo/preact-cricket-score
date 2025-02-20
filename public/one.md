@@ -2,15 +2,15 @@
 title: "Bangladesh vs India, 2nd Match, Group A - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 69/0 (9.2)  
+🔴 Live Score - IND 95/1 (18.3)  
 
-📊 Run Rate - CRR: 7.39  
+📊 Run Rate - CRR: 5.14  
 
-✊ Current Batsman - Rohit Sharma - 41(33)  
+✊ Current Batsman - Shubman Gill - 40(47)  
 
-✊ Current Bowler - Taskin Ahmed - 4.2 Over 21 Run - 0 Wicket  
+✊ Current Bowler - Rishad Hossain - 1.3 Over 4 Run - 0 Wicket  
 
-📑 Status - India need 160 runs
+📑 Status - India need 134 runs
 
-📝 Last Updated on : 2/20/2025, 7:25:03 PM  
+📝 Last Updated on : 2/20/2025, 7:58:13 PM  
 
