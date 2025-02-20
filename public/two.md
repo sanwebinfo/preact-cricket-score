@@ -1,8 +1,8 @@
 ---
-title: "Gujarat Giants Women vs Mumbai Indians Women, 5th Match - Live Cricket Score"
+title: "Royal Challengers Bengaluru Women vs Mumbai Indians Women, 7th Match - Live Cricket Score"
 --- 
 
-📑 Status - Mumbai Indians Women won by 5 wkts
+📑 Status - Date: 2025-02-21 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 2/19/2025, 10:11:02 AM  
+📝 Last Updated on : 2/20/2025, 9:41:04 AM  
 
