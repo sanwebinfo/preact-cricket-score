@@ -2,15 +2,15 @@
 title: "Bangladesh vs India, 2nd Match, Group A - Live Cricket Score"
 ---
 
-🔴 Live Score - BAN 117/5 (31.5)  
+🔴 Live Score - BAN 123/5 (33)  
 
-📊 Run Rate - CRR: 3.68  
+📊 Run Rate - CRR: 3.73  
 
-✊ Current Batsman - Towhid Hridoy - 40(73)  
+✊ Current Batsman - Towhid Hridoy - 45(78)  
 
-✊ Current Bowler - Harshit Rana - 5.5 Over 27 Run - 1 Wicket  
+✊ Current Bowler - Kuldeep Yadav - 5 Over 18 Run - 0 Wicket  
 
 📑 Status - Bangladesh opt to bat
 
-📝 Last Updated on : 2/20/2025, 4:40:52 PM  
+📝 Last Updated on : 2/20/2025, 4:45:33 PM  
 
