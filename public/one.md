@@ -2,15 +2,15 @@
 title: "Bangladesh vs India, 2nd Match, Group A - Live Cricket Score"
 ---
 
-🔴 Live Score - BAN 164/5 (39.5)  
+🔴 Live Score - BAN 228 (49.4)  
 
-📊 Run Rate - CRR: 4.12  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Jaker Ali - 59(105)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Hardik Pandya - 2.5 Over 12 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Bangladesh opt to bat
+📑 Status - Innings Break
 
-📝 Last Updated on : 2/20/2025, 5:10:29 PM  
+📝 Last Updated on : 2/20/2025, 6:18:01 PM  
 
