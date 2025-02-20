@@ -1,8 +1,8 @@
 ---
-title: "Pakistan vs New Zealand, 1st Match, Group A - Live Cricket Score"
+title: "Bangladesh vs India, 2nd Match, Group A - Live Cricket Score"
 ---
 
-📑 Status - New Zealand won by 60 runs
+📑 Status - Date: 2025-02-20 - Time: 02:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 2/19/2025, 10:23:43 PM  
+📝 Last Updated on : 2/20/2025, 9:38:57 AM  
 
