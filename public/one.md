@@ -2,15 +2,15 @@
 title: "Afghanistan vs South Africa, 3rd Match, Group B - Live Cricket Score"
 ---
 
-🔴 Live Score - RSA 315/6 (50)  
+🔴 Live Score - AFG 17/1 (3.3)  
 
-📊 Run Rate - CRR: 6.3  
+📊 Run Rate - CRR: 4.86  
 
-✊ Current Batsman - Aiden Markram - 52(36)  
+✊ Current Batsman - Ibrahim Zadran - 5(6)  
 
-✊ Current Bowler - Fazalhaq Farooqi - 8 Over 59 Run - 1 Wicket  
+✊ Current Bowler - Lungi Ngidi - 1.3 Over 11 Run - 1 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Afghanistan need 299 runs
 
-📝 Last Updated on : 2/21/2025, 6:23:49 PM  
+📝 Last Updated on : 2/21/2025, 7:02:01 PM  
 
