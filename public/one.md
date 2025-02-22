@@ -2,15 +2,15 @@
 title: "Australia vs England, 4th Match, Group B - Live Cricket Score"
 ---
 
-🔴 Live Score - ENG 351/8 (50)  
+🔴 Live Score - AUS 103/2 (15)  
 
-📊 Run Rate - CRR: 7.02  
+📊 Run Rate - CRR: 6.87  
 
-✊ Current Batsman - Adil Rashid - 1(1)  
+✊ Current Batsman - Matthew Short - 52(48)  
 
-✊ Current Bowler - Marnus Labuschagne - 5 Over 41 Run - 2 Wicket  
+✊ Current Bowler - Adil Rashid - 2 Over 8 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Australia need 249 runs
 
-📝 Last Updated on : 2/22/2025, 6:39:15 PM  
+📝 Last Updated on : 2/22/2025, 8:05:04 PM  
 
