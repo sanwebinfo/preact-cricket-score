@@ -1,8 +1,8 @@
 ---
-title: "Afghanistan vs South Africa, 3rd Match, Group B - Live Cricket Score"
+title: "Australia vs England, 4th Match, Group B - Live Cricket Score"
 ---
 
-📑 Status - South Africa won by 107 runs
+📑 Status - Date: 2025-02-22 - Time: 02:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 2/21/2025, 10:12:08 PM  
+📝 Last Updated on : 2/22/2025, 9:04:20 AM  
 
