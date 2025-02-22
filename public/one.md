@@ -2,15 +2,15 @@
 title: "Australia vs England, 4th Match, Group B - Live Cricket Score"
 ---
 
-🔴 Live Score - ENG 89/2 (12.1)  
+🔴 Live Score - ENG 351/8 (50)  
 
-📊 Run Rate - CRR: 7.32  
+📊 Run Rate - CRR: 7.02  
 
-✊ Current Batsman - Ben Duckett - 27(30)  
+✊ Current Batsman - Adil Rashid - 1(1)  
 
-✊ Current Bowler - Nathan Ellis - 3.1 Over 18 Run - 0 Wicket  
+✊ Current Bowler - Marnus Labuschagne - 5 Over 41 Run - 2 Wicket  
 
-📑 Status - Australia opt to bowl
+📑 Status - Innings Break
 
-📝 Last Updated on : 2/22/2025, 3:27:40 PM  
+📝 Last Updated on : 2/22/2025, 6:39:15 PM  
 
