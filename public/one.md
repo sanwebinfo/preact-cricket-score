@@ -1,16 +1,8 @@
 ---
-title: "Australia vs England, 4th Match, Group B - Live Cricket Score"
+title: "Pakistan vs India, 5th Match, Group A - Live Cricket Score"
 ---
 
-🔴 Live Score - AUS 169/4 (26.3)  
+📑 Status - Date: 2025-02-23 - Time: 02:30:00 PM (Indian Local Time)
 
-📊 Run Rate - CRR: 6.38  
-
-✊ Current Batsman - Josh Inglis - 27(23)  
-
-✊ Current Bowler - Liam Livingstone - 5.3 Over 37 Run - 1 Wicket  
-
-📑 Status - Australia need 183 runs
-
-📝 Last Updated on : 2/22/2025, 8:44:21 PM  
+📝 Last Updated on : 2/23/2025, 9:15:34 AM  
 
