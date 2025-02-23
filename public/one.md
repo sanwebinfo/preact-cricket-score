@@ -2,15 +2,15 @@
 title: "Pakistan vs India, 5th Match, Group A - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 63/1 (9.1)  
+🔴 Live Score - IND 203/2 (37)  
 
-📊 Run Rate - CRR: 6.87  
+📊 Run Rate - CRR: 5.49  
 
-✊ Current Batsman - Virat Kohli - 5(6)  
+✊ Current Batsman - Virat Kohli - 81(92)  
 
-✊ Current Bowler - Naseem Shah - 4.1 Over 20 Run - 0 Wicket  
+✊ Current Bowler - Haris Rauf - 6 Over 46 Run - 0 Wicket  
 
-📑 Status - India need 179 runs
+📑 Status - India need 39 runs in 78 balls
 
-📝 Last Updated on : 2/23/2025, 7:34:50 PM  
+📝 Last Updated on : 2/23/2025, 9:26:13 PM  
 
