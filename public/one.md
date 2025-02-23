@@ -2,7 +2,15 @@
 title: "Pakistan vs India, 5th Match, Group A - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-02-23 - Time: 02:30:00 PM (Indian Local Time)
+🔴 Live Score - PAK 14/0 (3.1)  
 
-📝 Last Updated on : 2/23/2025, 9:15:34 AM  
+📊 Run Rate - CRR: 4.42  
+
+✊ Current Batsman - Babar Azam - 2(8)  
+
+✊ Current Bowler - Harshit Rana - 1.1 Over 4 Run - 0 Wicket  
+
+📑 Status - Pakistan opt to bat
+
+📝 Last Updated on : 2/23/2025, 2:47:44 PM  
 
