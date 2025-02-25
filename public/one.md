@@ -1,8 +1,8 @@
 ---
-title: "Bangladesh vs New Zealand, 6th Match, Group A - Live Cricket Score"
+title: "Australia vs South Africa, 7th Match, Group B - Live Cricket Score"
 ---
 
-📑 Status - New Zealand won by 5 wkts
+📑 Status - Date: 2025-02-25 - Time: 02:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 2/24/2025, 10:16:03 PM  
+📝 Last Updated on : 2/25/2025, 8:16:45 AM  
 
