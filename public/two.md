@@ -1,8 +1,8 @@
 ---
-title: "Delhi Capitals Women vs Mumbai Indians Women, 13th Match - Live Cricket Score"
+title: "Royal Challengers Bengaluru Women vs Delhi Capitals Women, 14th Match - Live Cricket Score"
 --- 
 
-📑 Status - Date: 2025-02-28 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Date: 2025-03-01 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 2/28/2025, 11:42:15 AM  
+📝 Last Updated on : 3/1/2025, 11:33:38 AM  
 
