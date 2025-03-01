@@ -1,16 +1,8 @@
 ---
-title: "Afghanistan vs Australia, 10th Match, Group B - Live Cricket Score"
+title: "South Africa vs England, 11th Match, Group B - Live Cricket Score"
 ---
 
-🔴 Live Score - AFG 273 (50)  
+📑 Status - Date: 2025-03-01 - Time: 02:30:00 PM (Indian Local Time)
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
-
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
-
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
-
-📑 Status - Innings Break
-
-📝 Last Updated on : 2/28/2025, 6:18:15 PM  
+📝 Last Updated on : 3/1/2025, 11:32:22 AM  
 
