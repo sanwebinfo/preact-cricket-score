@@ -1,8 +1,8 @@
 ---
-title: "South Africa vs England, 11th Match, Group B - Live Cricket Score"
+title: "New Zealand vs India, 12th Match, Group A - Live Cricket Score"
 ---
 
-📑 Status - South Africa won by 7 wkts
+📑 Status - Date: 2025-03-02 - Time: 02:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 3/1/2025, 9:58:55 PM  
+📝 Last Updated on : 3/2/2025, 8:20:55 AM  
 
