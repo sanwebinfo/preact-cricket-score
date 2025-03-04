@@ -2,15 +2,15 @@
 title: "India vs Australia, 1st Semi-Final (A1 v B2) - Live Cricket Score"
 ---
 
-🔴 Live Score - AUS 264 (49.3)  
+🔴 Live Score - IND 136/3 (27)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 5.04  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Virat Kohli - 51(56)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Cooper Connolly - 6 Over 27 Run - 1 Wicket  
 
-📑 Status - Innings Break
+📑 Status - India need 129 runs
 
-📝 Last Updated on : 3/4/2025, 6:02:49 PM  
+📝 Last Updated on : 3/4/2025, 8:07:50 PM  
 
