@@ -1,8 +1,8 @@
 ---
-title: "India vs Australia, 1st Semi-Final (A1 v B2) - Live Cricket Score"
+title: "South Africa vs New Zealand, 2nd Semi-Final (B1 v A2) - Live Cricket Score"
 ---
 
-📑 Status - India won by 4 wkts
+📑 Status - Date: 2025-03-05 - Time: 02:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 3/4/2025, 9:46:09 PM  
+📝 Last Updated on : 3/5/2025, 10:44:00 AM  
 
