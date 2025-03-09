@@ -2,7 +2,15 @@
 title: "India vs New Zealand, Final - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-03-09 - Time: 02:30:00 PM (Indian Local Time)
+🔴 Live Score - NZ 145/4 (32.3)  
 
-📝 Last Updated on : 3/6/2025, 11:19:08 AM  
+📊 Run Rate - CRR: 4.46  
+
+✊ Current Batsman - Daryl Mitchell - 35(66)  
+
+✊ Current Bowler - Axar Patel - 5.3 Over 18 Run - 0 Wicket  
+
+📑 Status - New Zealand opt to bat
+
+📝 Last Updated on : 3/9/2025, 4:42:18 PM  
 
