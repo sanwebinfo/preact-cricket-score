@@ -1,8 +1,8 @@
 ---
-title: "India vs New Zealand, Final - Live Cricket Score"
+title: "Kolkata Knight Riders vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score"
 ---
 
-📑 Status - India won by 4 wkts
+📑 Status - Date: 2025-03-22 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 3/10/2025, 5:07:27 AM  
+📝 Last Updated on : 3/22/2025, 10:07:54 AM  
 
