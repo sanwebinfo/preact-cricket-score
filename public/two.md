@@ -2,7 +2,7 @@
 title: "Chennai Super Kings vs Mumbai Indians, 3rd Match - Live Cricket Score"
 --- 
 
-📑 Status - Date: 2025-03-23 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Chennai Super Kings won by 4 wkts
 
-📝 Last Updated on : 3/23/2025, 11:49:26 AM  
+📝 Last Updated on : 3/24/2025, 9:53:19 AM  
 
