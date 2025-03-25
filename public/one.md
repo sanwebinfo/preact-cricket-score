@@ -1,8 +1,8 @@
 ---
-title: "Delhi Capitals vs Lucknow Super Giants, 4th Match - Live Cricket Score"
+title: "Gujarat Titans vs Punjab Kings, 5th Match - Live Cricket Score"
 ---
 
-📑 Status - Delhi Capitals won by 1 wkt
+📑 Status - Date: 2025-03-25 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 3/25/2025, 8:51:10 AM  
+📝 Last Updated on : 3/25/2025, 10:34:52 AM  
 
