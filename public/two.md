@@ -1,8 +1,8 @@
 ---
-title: "Chennai Super Kings vs Mumbai Indians, 3rd Match - Live Cricket Score"
+title: "New Zealand vs Pakistan, 1st ODI - Live Cricket Score"
 --- 
 
-📑 Status - Chennai Super Kings won by 4 wkts
+📑 Status - Date: 2025-03-29 - Time: 03:30:00 AM (Indian Local Time)
 
-📝 Last Updated on : 3/24/2025, 9:53:19 AM  
+📝 Last Updated on : 3/27/2025, 10:55:33 AM  
 
