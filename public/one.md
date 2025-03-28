@@ -2,7 +2,7 @@
 title: "Sunrisers Hyderabad vs Lucknow Super Giants, 7th Match - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-03-27 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Lucknow Super Giants won by 5 wkts
 
-📝 Last Updated on : 3/27/2025, 10:54:14 AM  
+📝 Last Updated on : 3/28/2025, 7:31:57 AM  
 
