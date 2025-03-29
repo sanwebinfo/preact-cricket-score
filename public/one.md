@@ -2,7 +2,7 @@
 title: "Chennai Super Kings vs Royal Challengers Bengaluru, 8th Match - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-03-28 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Royal Challengers Bengaluru won by 50 runs
 
-📝 Last Updated on : 3/28/2025, 10:13:16 AM  
+📝 Last Updated on : 3/29/2025, 5:31:22 AM  
 
