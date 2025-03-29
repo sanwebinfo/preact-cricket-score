@@ -1,8 +1,8 @@
 ---
-title: "Chennai Super Kings vs Royal Challengers Bengaluru, 8th Match - Live Cricket Score"
+title: "Gujarat Titans vs Mumbai Indians, 9th Match - Live Cricket Score"
 ---
 
-📑 Status - Royal Challengers Bengaluru won by 50 runs
+📑 Status - Date: 2025-03-29 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 3/29/2025, 5:31:22 AM  
+📝 Last Updated on : 3/29/2025, 10:29:47 AM  
 
