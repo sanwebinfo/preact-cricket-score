@@ -1,8 +1,8 @@
 ---
-title: "Lucknow Super Giants vs Punjab Kings, 13th Match - Live Cricket Score"
+title: "Royal Challengers Bengaluru vs Gujarat Titans, 14th Match - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-04-01 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Date: 2025-04-02 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/1/2025, 11:26:09 AM  
+📝 Last Updated on : 4/2/2025, 10:48:11 AM  
 
