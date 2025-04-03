@@ -1,8 +1,8 @@
 ---
-title: "New Zealand vs Pakistan, 2nd ODI - Live Cricket Score"
+title: "New Zealand vs Pakistan, 3rd ODI - Live Cricket Score"
 --- 
 
-📑 Status - Date: 2025-04-02 - Time: 03:30:00 AM (Indian Local Time)
+📑 Status - Date: 2025-04-05 - Time: 03:30:00 AM (Indian Local Time)
 
-📝 Last Updated on : 3/31/2025, 9:12:23 AM  
+📝 Last Updated on : 4/3/2025, 10:55:29 AM  
 
