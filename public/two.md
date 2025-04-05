@@ -2,7 +2,7 @@
 title: "New Zealand vs Pakistan, 3rd ODI - Live Cricket Score"
 --- 
 
-📑 Status - Date: 2025-04-05 - Time: 03:30:00 AM (Indian Local Time)
+📑 Status - New Zealand won by 43 runs (42 Ovs game due to wet outfield)
 
-📝 Last Updated on : 4/3/2025, 10:55:29 AM  
+📝 Last Updated on : 4/5/2025, 12:24:25 PM  
 
