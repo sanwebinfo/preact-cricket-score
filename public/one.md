@@ -1,8 +1,8 @@
 ---
-title: "Mumbai Indians vs Royal Challengers Bengaluru, 20th Match - Live Cricket Score"
+title: "Kolkata Knight Riders vs Lucknow Super Giants, 21st Match - Live Cricket Score"
 ---
 
-📑 Status - Royal Challengers Bengaluru won by 12 runs
+📑 Status - Date: 2025-04-08 - Time: 03:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/8/2025, 7:25:47 AM  
+📝 Last Updated on : 4/8/2025, 10:13:59 AM  
 
