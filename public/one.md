@@ -2,7 +2,7 @@
 title: "Royal Challengers Bengaluru vs Delhi Capitals, 24th Match - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-04-10 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Delhi Capitals won by 6 wkts
 
-📝 Last Updated on : 4/10/2025, 10:26:08 AM  
+📝 Last Updated on : 4/10/2025, 11:04:34 PM  
 
