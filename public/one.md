@@ -1,8 +1,8 @@
 ---
-title: "Royal Challengers Bengaluru vs Delhi Capitals, 24th Match - Live Cricket Score"
+title: "Chennai Super Kings vs Kolkata Knight Riders, 25th Match - Live Cricket Score"
 ---
 
-📑 Status - Delhi Capitals won by 6 wkts
+📑 Status - Date: 2025-04-11 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/10/2025, 11:04:34 PM  
+📝 Last Updated on : 4/11/2025, 10:57:25 AM  
 
