@@ -1,8 +1,8 @@
 ---
-title: "Chennai Super Kings vs Kolkata Knight Riders, 25th Match - Live Cricket Score"
+title: "Lucknow Super Giants vs Gujarat Titans, 26th Match - Live Cricket Score"
 ---
 
-📑 Status - Kolkata Knight Riders won by 8 wkts
+📑 Status - Date: 2025-04-12 - Time: 03:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/12/2025, 7:39:57 AM  
+📝 Last Updated on : 4/12/2025, 8:47:29 AM  
 
