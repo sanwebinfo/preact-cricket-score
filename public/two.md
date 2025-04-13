@@ -1,8 +1,8 @@
 ---
-title: "Sunrisers Hyderabad vs Punjab Kings, 27th Match - Live Cricket Score"
+title: "Delhi Capitals vs Mumbai Indians, 29th Match - Live Cricket Score"
 --- 
 
-📑 Status - Sunrisers Hyderabad won by 8 wkts
+📑 Status - Date: 2025-04-13 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/13/2025, 5:33:40 AM  
+📝 Last Updated on : 4/13/2025, 11:37:20 AM  
 
