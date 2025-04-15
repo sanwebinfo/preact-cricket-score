@@ -2,15 +2,15 @@
 title: "Punjab Kings vs Kolkata Knight Riders, 31st Match - Live Cricket Score"
 ---
 
-🔴 Live Score - PBKS 13/0 (2)  
+🔴 Live Score - KKR 16/2 (2.2)  
 
-📊 Run Rate - CRR: 6.5  
+📊 Run Rate - CRR: 6.86  
 
-✊ Current Batsman - Prabhsimran Singh - 2(4)  
+✊ Current Batsman - Angkrish Raghuvanshi - 9(5)  
 
-✊ Current Bowler - Vaibhav Arora - 1 Over 4 Run - 0 Wicket  
+✊ Current Bowler - Marco Jansen - 1.2 Over 11 Run - 1 Wicket  
 
-📑 Status - Punjab Kings opt to bat
+📑 Status - Kolkata Knight Riders need 96 runs
 
-📝 Last Updated on : 4/15/2025, 7:40:40 PM  
+📝 Last Updated on : 4/15/2025, 9:26:44 PM  
 
