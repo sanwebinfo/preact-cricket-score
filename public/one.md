@@ -2,7 +2,15 @@
 title: "Mumbai Indians vs Sunrisers Hyderabad, 33rd Match - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-04-17 - Time: 07:30:00 PM (Indian Local Time)
+🔴 Live Score - SRH 82/3 (11.2)  
 
-📝 Last Updated on : 4/17/2025, 10:39:41 AM  
+📊 Run Rate - CRR: 7.24  
+
+✊ Current Batsman - Heinrich Klaasen - 0(1)  
+
+✊ Current Bowler - Will Jacks - 2.2 Over 13 Run - 2 Wicket  
+
+📑 Status - Mumbai Indians opt to bowl
+
+📝 Last Updated on : 4/17/2025, 8:33:55 PM  
 
