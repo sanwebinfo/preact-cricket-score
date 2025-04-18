@@ -2,7 +2,7 @@
 title: "Royal Challengers Bengaluru vs Punjab Kings, 34th Match - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-04-18 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Punjab Kings won by 5 wkts - 14 overs game - due to rain
 
-📝 Last Updated on : 4/18/2025, 11:10:18 AM  
+📝 Last Updated on : 4/19/2025, 5:21:15 AM  
 
