@@ -1,8 +1,8 @@
 ---
-title: "Mumbai Indians vs Sunrisers Hyderabad, 33rd Match - Live Cricket Score"
+title: "Royal Challengers Bengaluru vs Punjab Kings, 34th Match - Live Cricket Score"
 ---
 
-📑 Status - Mumbai Indians won by 4 wkts
+📑 Status - Date: 2025-04-18 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/18/2025, 5:21:33 AM  
+📝 Last Updated on : 4/18/2025, 11:10:18 AM  
 
