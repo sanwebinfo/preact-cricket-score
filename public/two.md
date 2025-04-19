@@ -1,8 +1,8 @@
 ---
-title: "Delhi Capitals vs Mumbai Indians, 29th Match - Live Cricket Score"
+title: "Rajasthan Royals vs Lucknow Super Giants, 36th Match - Live Cricket Score"
 --- 
 
-📑 Status - Mumbai Indians won by 12 runs
+📑 Status - Date: 2025-04-19 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/15/2025, 12:04:18 AM  
+📝 Last Updated on : 4/19/2025, 10:59:41 AM  
 
