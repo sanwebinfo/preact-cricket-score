@@ -1,8 +1,8 @@
 ---
-title: "Royal Challengers Bengaluru vs Punjab Kings, 34th Match - Live Cricket Score"
+title: "Gujarat Titans vs Delhi Capitals, 35th Match - Live Cricket Score"
 ---
 
-📑 Status - Punjab Kings won by 5 wkts - 14 overs game - due to rain
+📑 Status - Date: 2025-04-19 - Time: 03:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/19/2025, 5:21:15 AM  
+📝 Last Updated on : 4/19/2025, 10:57:16 AM  
 
