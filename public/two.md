@@ -2,7 +2,7 @@
 title: "Rajasthan Royals vs Lucknow Super Giants, 36th Match - Live Cricket Score"
 --- 
 
-📑 Status - Date: 2025-04-19 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Lucknow Super Giants won by 2 runs
 
-📝 Last Updated on : 4/19/2025, 10:59:41 AM  
+📝 Last Updated on : 4/20/2025, 9:08:18 AM  
 
