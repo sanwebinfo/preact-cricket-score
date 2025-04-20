@@ -1,8 +1,8 @@
 ---
-title: "Rajasthan Royals vs Lucknow Super Giants, 36th Match - Live Cricket Score"
+title: "Mumbai Indians vs Chennai Super Kings, 38th Match - Live Cricket Score"
 --- 
 
-📑 Status - Lucknow Super Giants won by 2 runs
+📑 Status - Date: 2025-04-20 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/20/2025, 9:08:18 AM  
+📝 Last Updated on : 4/20/2025, 11:40:36 AM  
 
