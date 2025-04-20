@@ -1,8 +1,8 @@
 ---
-title: "Gujarat Titans vs Delhi Capitals, 35th Match - Live Cricket Score"
+title: "Punjab Kings vs Royal Challengers Bengaluru, 37th Match - Live Cricket Score"
 ---
 
-📑 Status - Gujarat Titans won by 7 wkts
+📑 Status - Date: 2025-04-20 - Time: 03:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/19/2025, 7:48:34 PM  
+📝 Last Updated on : 4/20/2025, 11:39:05 AM  
 
