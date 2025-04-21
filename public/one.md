@@ -2,15 +2,15 @@
 title: "Kolkata Knight Riders vs Gujarat Titans, 39th Match - Live Cricket Score"
 ---
 
-🔴 Live Score - KKR 114/4 (15.2)  
+🔴 Live Score - KKR 137/7 (17.4)  
 
-📊 Run Rate - CRR: 7.43  
+📊 Run Rate - CRR: 7.75  
 
-✊ Current Batsman - Andre Russell - 17(12)  
+✊ Current Batsman - Rinku Singh - 12(10)  
 
-✊ Current Bowler - Rashid Khan - 2.2 Over 5 Run - 1 Wicket  
+✊ Current Bowler - Rashid Khan - 3.4 Over 23 Run - 2 Wicket  
 
-📑 Status - Kolkata Knight Riders need 85 runs in 28 balls
+📑 Status - Kolkata Knight Riders need 62 runs in 14 balls
 
-📝 Last Updated on : 4/21/2025, 10:51:04 PM  
+📝 Last Updated on : 4/21/2025, 11:09:02 PM  
 
