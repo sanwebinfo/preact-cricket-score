@@ -2,7 +2,15 @@
 title: "Lucknow Super Giants vs Delhi Capitals, 40th Match - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-04-22 - Time: 07:30:00 PM (Indian Local Time)
+🔴 Live Score - DC 38/1 (4)  
 
-📝 Last Updated on : 4/22/2025, 8:37:22 AM  
+📊 Run Rate - CRR: 9.5  
+
+✊ Current Batsman - Abishek Porel - 19(14)  
+
+✊ Current Bowler - Prince Yadav - 1 Over 7 Run - 0 Wicket  
+
+📑 Status - Delhi Capitals need 122 runs
+
+📝 Last Updated on : 4/22/2025, 9:39:38 PM  
 
