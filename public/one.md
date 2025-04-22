@@ -1,8 +1,8 @@
 ---
-title: "Kolkata Knight Riders vs Gujarat Titans, 39th Match - Live Cricket Score"
+title: "Lucknow Super Giants vs Delhi Capitals, 40th Match - Live Cricket Score"
 ---
 
-📑 Status - Gujarat Titans won by 39 runs
+📑 Status - Date: 2025-04-22 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/21/2025, 11:23:56 PM  
+📝 Last Updated on : 4/22/2025, 8:37:22 AM  
 
