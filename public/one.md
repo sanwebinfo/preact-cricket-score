@@ -1,8 +1,8 @@
 ---
-title: "Lucknow Super Giants vs Delhi Capitals, 40th Match - Live Cricket Score"
+title: "Sunrisers Hyderabad vs Mumbai Indians, 41st Match - Live Cricket Score"
 ---
 
-📑 Status - Delhi Capitals won by 8 wkts
+📑 Status - Date: 2025-04-23 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/23/2025, 5:15:38 AM  
+📝 Last Updated on : 4/23/2025, 10:43:41 AM  
 
