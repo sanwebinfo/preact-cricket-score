@@ -2,15 +2,15 @@
 title: "Royal Challengers Bengaluru vs Rajasthan Royals, 42nd Match - Live Cricket Score"
 ---
 
-🔴 Live Score - RCB 197/4 (19.1)  
+🔴 Live Score - RR 99/2 (8)  
 
-📊 Run Rate - CRR: 10.28  
+📊 Run Rate - CRR: 12.38  
 
-✊ Current Batsman - Jitesh Sharma - 14(7)  
+✊ Current Batsman - Riyan Parag - 21(8)  
 
-✊ Current Bowler - Jofra Archer - 3.1 Over 25 Run - 1 Wicket  
+✊ Current Bowler - Suyash Sharma - 1 Over 12 Run - 0 Wicket  
 
-📑 Status - Rajasthan Royals opt to bowl
+📑 Status - Date: 2025-04-24 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/24/2025, 9:15:25 PM  
+📝 Last Updated on : 4/24/2025, 10:13:28 PM  
 
