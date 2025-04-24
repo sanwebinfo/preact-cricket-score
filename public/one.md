@@ -2,15 +2,15 @@
 title: "Royal Challengers Bengaluru vs Rajasthan Royals, 42nd Match - Live Cricket Score"
 ---
 
-🔴 Live Score - RR 99/2 (8)  
+🔴 Live Score - RR 120/3 (11)  
 
-📊 Run Rate - CRR: 12.38  
+📊 Run Rate - CRR: 10.91  
 
-✊ Current Batsman - Riyan Parag - 21(8)  
+✊ Current Batsman - Dhruv Jurel - 8(9)  
 
-✊ Current Bowler - Suyash Sharma - 1 Over 12 Run - 0 Wicket  
+✊ Current Bowler - Krunal Pandya - 1 Over 3 Run - 1 Wicket  
 
-📑 Status - Date: 2025-04-24 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Rajasthan Royals need 86 runs in 54 balls
 
-📝 Last Updated on : 4/24/2025, 10:13:28 PM  
+📝 Last Updated on : 4/24/2025, 10:32:50 PM  
 
