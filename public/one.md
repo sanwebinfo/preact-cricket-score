@@ -1,8 +1,8 @@
 ---
-title: "Sunrisers Hyderabad vs Mumbai Indians, 41st Match - Live Cricket Score"
+title: "Royal Challengers Bengaluru vs Rajasthan Royals, 42nd Match - Live Cricket Score"
 ---
 
-📑 Status - Mumbai Indians won by 7 wkts
+📑 Status - Date: 2025-04-24 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/24/2025, 9:42:05 AM  
+📝 Last Updated on : 4/24/2025, 11:06:59 AM  
 
