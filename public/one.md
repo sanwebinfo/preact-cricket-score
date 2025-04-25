@@ -2,15 +2,15 @@
 title: "Chennai Super Kings vs Sunrisers Hyderabad, 43rd Match - Live Cricket Score"
 ---
 
-🔴 Live Score - SRH 54/3 (8.1)  
+🔴 Live Score - SRH 116/5 (15.2)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 7.57  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Kamindu Mendis - 15(10)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Noor Ahmad - 3.2 Over 31 Run - 2 Wicket  
 
-📑 Status - Sunrisers Hyderabad need 101 runs in 71 balls
+📑 Status - Sunrisers Hyderabad need 39 runs in 28 balls
 
-📝 Last Updated on : 4/25/2025, 10:21:32 PM  
+📝 Last Updated on : 4/25/2025, 11:00:53 PM  
 
