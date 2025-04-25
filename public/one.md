@@ -1,8 +1,8 @@
 ---
-title: "Royal Challengers Bengaluru vs Rajasthan Royals, 42nd Match - Live Cricket Score"
+title: "Chennai Super Kings vs Sunrisers Hyderabad, 43rd Match - Live Cricket Score"
 ---
 
-📑 Status - Royal Challengers Bengaluru won by 11 runs
+📑 Status - Date: 2025-04-25 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/25/2025, 8:18:04 AM  
+📝 Last Updated on : 4/25/2025, 8:41:02 AM  
 
