@@ -2,7 +2,15 @@
 title: "Chennai Super Kings vs Sunrisers Hyderabad, 43rd Match - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-04-25 - Time: 07:30:00 PM (Indian Local Time)
+🔴 Live Score - CSK 28/1 (3.1)  
 
-📝 Last Updated on : 4/25/2025, 8:41:02 AM  
+📊 Run Rate - CRR: 8.84  
+
+✊ Current Batsman - Sam Curran - 7(7)  
+
+✊ Current Bowler - Jaydev Unadkat - 0.1 Over 1 Run - 0 Wicket  
+
+📑 Status - Sunrisers Hyderabad opt to bowl
+
+📝 Last Updated on : 4/25/2025, 7:48:31 PM  
 
