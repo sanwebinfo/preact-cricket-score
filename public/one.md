@@ -1,8 +1,8 @@
 ---
-title: "Chennai Super Kings vs Sunrisers Hyderabad, 43rd Match - Live Cricket Score"
+title: "Kolkata Knight Riders vs Punjab Kings, 44th Match - Live Cricket Score"
 ---
 
-📑 Status - Sunrisers Hyderabad won by 5 wkts
+📑 Status - Date: 2025-04-26 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/25/2025, 11:23:28 PM  
+📝 Last Updated on : 4/26/2025, 6:07:39 PM  
 
