@@ -2,15 +2,15 @@
 title: "Rajasthan Royals vs Gujarat Titans, 47th Match - Live Cricket Score"
 ---
 
-🔴 Live Score - GT 154/1 (15.4)  
+🔴 Live Score - RR 171/1 (12.2)  
 
-📊 Run Rate - CRR: 9.83  
+📊 Run Rate - CRR: 13.86  
 
-✊ Current Batsman - Jos Buttler - 32(17)  
+✊ Current Batsman - Nitish Rana - 4(1)  
 
-✊ Current Bowler - Sandeep Sharma - 2.4 Over 20 Run - 0 Wicket  
+✊ Current Bowler - Rashid Khan - 3.2 Over 21 Run - 0 Wicket  
 
-📑 Status - Rajasthan Royals opt to bowl
+📑 Status - Rajasthan Royals need 39 runs in 46 balls
 
-📝 Last Updated on : 4/28/2025, 8:44:39 PM  
+📝 Last Updated on : 4/28/2025, 10:38:25 PM  
 
