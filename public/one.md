@@ -2,15 +2,15 @@
 title: "Delhi Capitals vs Kolkata Knight Riders, 48th Match - Live Cricket Score"
 ---
 
-🔴 Live Score - DC 103/3 (10.4)  
+🔴 Live Score - DC 125/3 (12.4)  
 
-📊 Run Rate - CRR: 9.66  
+📊 Run Rate - CRR: 9.87  
 
-✊ Current Batsman - Faf du Plessis - 50(31)  
+✊ Current Batsman - Axar Patel - 32(19)  
 
-✊ Current Bowler - Harshit Rana - 1.4 Over 20 Run - 0 Wicket  
+✊ Current Bowler - Varun Chakaravarthy - 2.4 Over 26 Run - 0 Wicket  
 
-📑 Status - Delhi Capitals need 102 runs in 56 balls
+📑 Status - Delhi Capitals need 80 runs in 44 balls
 
-📝 Last Updated on : 4/29/2025, 10:31:34 PM  
+📝 Last Updated on : 4/29/2025, 10:46:35 PM  
 
