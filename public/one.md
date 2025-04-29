@@ -1,8 +1,8 @@
 ---
-title: "Rajasthan Royals vs Gujarat Titans, 47th Match - Live Cricket Score"
+title: "Delhi Capitals vs Kolkata Knight Riders, 48th Match - Live Cricket Score"
 ---
 
-📑 Status - Rajasthan Royals won by 8 wkts
+📑 Status - Date: 2025-04-29 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 4/29/2025, 5:35:27 AM  
+📝 Last Updated on : 4/29/2025, 11:27:49 AM  
 
