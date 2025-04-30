@@ -2,15 +2,15 @@
 title: "Chennai Super Kings vs Punjab Kings, 49th Match - Live Cricket Score"
 ---
 
-🔴 Live Score - PBKS 87/1 (9.5)  
+🔴 Live Score - PBKS 146/3 (15.3)  
 
-📊 Run Rate - CRR: 8.85  
+📊 Run Rate - CRR: 9.42  
 
-✊ Current Batsman - Shreyas Iyer - 22(17)  
+✊ Current Batsman - Shreyas Iyer - 53(34)  
 
-✊ Current Bowler - Sam Curran - 0.5 Over 6 Run - 0 Wicket  
+✊ Current Bowler - Noor Ahmad - 3.3 Over 35 Run - 1 Wicket  
 
-📑 Status - Punjab Kings need 104 runs in 61 balls
+📑 Status - Punjab Kings need 45 runs in 27 balls
 
-📝 Last Updated on : 4/30/2025, 10:30:27 PM  
+📝 Last Updated on : 4/30/2025, 11:01:47 PM  
 
