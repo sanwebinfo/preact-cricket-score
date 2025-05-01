@@ -2,7 +2,15 @@
 title: "Rajasthan Royals vs Mumbai Indians, 50th Match - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-05-01 - Time: 07:30:00 PM (Indian Local Time)
+🔴 Live Score - MI 66/0 (7.2)  
 
-📝 Last Updated on : 5/1/2025, 10:16:11 AM  
+📊 Run Rate - CRR: 9  
+
+✊ Current Batsman - Ryan Rickelton - 37(23)  
+
+✊ Current Bowler - Akash Madhwal - 0.2 Over 2 Run - 0 Wicket  
+
+📑 Status - Rajasthan Royals opt to bowl
+
+📝 Last Updated on : 5/1/2025, 8:11:32 PM  
 
