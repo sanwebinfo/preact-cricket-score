@@ -2,15 +2,15 @@
 title: "Rajasthan Royals vs Mumbai Indians, 50th Match - Live Cricket Score"
 ---
 
-🔴 Live Score - MI 161/2 (16)  
+🔴 Live Score - RR 6/1 (1)  
 
-📊 Run Rate - CRR: 10.06  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Hardik Pandya - 16(11)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Akash Madhwal - 3 Over 26 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Rajasthan Royals opt to bowl
+📑 Status - Rajasthan Royals need 212 runs
 
-📝 Last Updated on : 5/1/2025, 8:57:15 PM  
+📝 Last Updated on : 5/1/2025, 9:42:37 PM  
 
