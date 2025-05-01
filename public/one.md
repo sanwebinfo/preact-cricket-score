@@ -1,8 +1,8 @@
 ---
-title: "Chennai Super Kings vs Punjab Kings, 49th Match - Live Cricket Score"
+title: "Rajasthan Royals vs Mumbai Indians, 50th Match - Live Cricket Score"
 ---
 
-📑 Status - Punjab Kings won by 4 wkts
+📑 Status - Date: 2025-05-01 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 5/1/2025, 5:37:48 AM  
+📝 Last Updated on : 5/1/2025, 10:16:11 AM  
 
