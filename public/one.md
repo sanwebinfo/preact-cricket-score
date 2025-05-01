@@ -2,15 +2,15 @@
 title: "Rajasthan Royals vs Mumbai Indians, 50th Match - Live Cricket Score"
 ---
 
-🔴 Live Score - RR 6/1 (1)  
+🔴 Live Score - RR 64/5 (7)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 9.14  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Shubham Dubey - 15(8)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Corbin Bosch - 1 Over 10 Run - 0 Wicket  
 
-📑 Status - Rajasthan Royals need 212 runs
+📑 Status - Rajasthan Royals need 154 runs in 78 balls
 
-📝 Last Updated on : 5/1/2025, 9:42:37 PM  
+📝 Last Updated on : 5/1/2025, 10:17:04 PM  
 
