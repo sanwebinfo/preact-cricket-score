@@ -2,15 +2,15 @@
 title: "Gujarat Titans vs Sunrisers Hyderabad, 51st Match - Live Cricket Score"
 ---
 
-🔴 Live Score - SRH 63/1 (7)  
+🔴 Live Score - SRH 77/1 (8.4)  
 
-📊 Run Rate - CRR: 9  
+📊 Run Rate - CRR: 8.88  
 
-✊ Current Batsman - Ishan Kishan - 6(8)  
+✊ Current Batsman - Abhishek Sharma - 40(23)  
 
-✊ Current Bowler - Prasidh Krishna - 2 Over 11 Run - 1 Wicket  
+✊ Current Bowler - Washington Sundar - 0.4 Over 3 Run - 0 Wicket  
 
-📑 Status - Date: 2025-05-02 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Sunrisers Hyderabad need 148 runs in 68 balls
 
-📝 Last Updated on : 5/2/2025, 10:17:36 PM  
+📝 Last Updated on : 5/2/2025, 10:26:07 PM  
 
