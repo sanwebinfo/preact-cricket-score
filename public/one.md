@@ -2,15 +2,15 @@
 title: "Gujarat Titans vs Sunrisers Hyderabad, 51st Match - Live Cricket Score"
 ---
 
-🔴 Live Score - GT 67/0 (4.5)  
+🔴 Live Score - GT 103/1 (9)  
 
-📊 Run Rate - CRR: 13.86  
+📊 Run Rate - CRR: 11.44  
 
-✊ Current Batsman - Sai Sudharsan - 40(17)  
+✊ Current Batsman - Shubman Gill - 42(22)  
 
-✊ Current Bowler - Harshal Patel - 0.5 Over 14 Run - 0 Wicket  
+✊ Current Bowler - Pat Cummins - 2 Over 21 Run - 0 Wicket  
 
 📑 Status - Sunrisers Hyderabad opt to bowl
 
-📝 Last Updated on : 5/2/2025, 7:55:43 PM  
+📝 Last Updated on : 5/2/2025, 8:19:14 PM  
 
