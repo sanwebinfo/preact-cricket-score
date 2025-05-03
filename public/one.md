@@ -2,15 +2,15 @@
 title: "Royal Challengers Bengaluru vs Chennai Super Kings, 52nd Match - Live Cricket Score"
 ---
 
-🔴 Live Score - RCB 121/2 (11.5)  
+🔴 Live Score - RCB 213/5 (20)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 10.65  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Tim David - 2(3)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Matheesha Pathirana - 4 Over 36 Run - 3 Wicket  
 
-📑 Status - Chennai Super Kings opt to bowl
+📑 Status - Innings Break
 
-📝 Last Updated on : 5/3/2025, 8:25:04 PM  
+📝 Last Updated on : 5/3/2025, 9:35:29 PM  
 
