@@ -1,8 +1,8 @@
 ---
-title: "Gujarat Titans vs Sunrisers Hyderabad, 51st Match - Live Cricket Score"
+title: "Royal Challengers Bengaluru vs Chennai Super Kings, 52nd Match - Live Cricket Score"
 ---
 
-📑 Status - Gujarat Titans won by 38 runs
+📑 Status - Date: 2025-05-03 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 5/3/2025, 5:22:14 AM  
+📝 Last Updated on : 5/3/2025, 11:13:03 AM  
 
