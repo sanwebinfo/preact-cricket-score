@@ -1,8 +1,8 @@
 ---
-title: "Mumbai Indians vs Chennai Super Kings, 38th Match - Live Cricket Score"
+title: "Punjab Kings vs Lucknow Super Giants, 54th Match - Live Cricket Score"
 --- 
 
-📑 Status - Mumbai Indians won by 9 wkts
+📑 Status - Date: 2025-05-04 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 5/2/2025, 9:57:17 PM  
+📝 Last Updated on : 5/4/2025, 12:09:53 PM  
 
