@@ -2,15 +2,15 @@
 title: "Kolkata Knight Riders vs Rajasthan Royals, 53rd Match - Live Cricket Score"
 ---
 
-🔴 Live Score - RR 63/2 (6.3)  
+🔴 Live Score - RR 71/5 (7.5)  
 
-📊 Run Rate - CRR: 9.69  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Yashasvi Jaiswal - 33(19)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Moeen Ali - 1.3 Over 8 Run - 1 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Rajasthan Royals need 144 runs in 81 balls
+📑 Status - Rajasthan Royals need 136 runs in 73 balls
 
-📝 Last Updated on : 5/4/2025, 6:00:17 PM  
+📝 Last Updated on : 5/4/2025, 6:07:02 PM  
 
