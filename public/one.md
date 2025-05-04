@@ -1,8 +1,8 @@
 ---
-title: "Royal Challengers Bengaluru vs Chennai Super Kings, 52nd Match - Live Cricket Score"
+title: "Kolkata Knight Riders vs Rajasthan Royals, 53rd Match - Live Cricket Score"
 ---
 
-📑 Status - Royal Challengers Bengaluru won by 2 runs
+📑 Status - Date: 2025-05-04 - Time: 03:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 5/3/2025, 11:29:10 PM  
+📝 Last Updated on : 5/4/2025, 11:57:43 AM  
 
