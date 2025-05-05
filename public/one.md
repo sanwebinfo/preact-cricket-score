@@ -1,8 +1,8 @@
 ---
-title: "Kolkata Knight Riders vs Rajasthan Royals, 53rd Match - Live Cricket Score"
+title: "Sunrisers Hyderabad vs Delhi Capitals, 55th Match - Live Cricket Score"
 ---
 
-📑 Status - Kolkata Knight Riders won by 1 run
+📑 Status - Date: 2025-05-05 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 5/4/2025, 8:56:14 PM  
+📝 Last Updated on : 5/5/2025, 8:52:06 AM  
 
