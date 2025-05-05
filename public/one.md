@@ -10,7 +10,7 @@ title: "Sunrisers Hyderabad vs Delhi Capitals, 55th Match - Live Cricket Score"
 
 ✊ Current Bowler - Harshal Patel - 4 Over 36 Run - 1 Wicket  
 
-📑 Status - Innings Break - Rain Stops play
+📑 Status - Innings Break - Match delayed due to wet outfield
 
-📝 Last Updated on : 5/5/2025, 10:17:51 PM  
+📝 Last Updated on : 5/5/2025, 11:05:37 PM  
 
