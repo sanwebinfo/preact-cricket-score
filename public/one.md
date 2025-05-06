@@ -2,15 +2,15 @@
 title: "Mumbai Indians vs Gujarat Titans, 56th Match - Live Cricket Score"
 ---
 
-🔴 Live Score - GT 88/2 (12.5)  
+🔴 Live Score - GT 107/2 (14)  
 
-📊 Run Rate - CRR: 6.86  
+📊 Run Rate - CRR: 7.64  
 
-✊ Current Batsman - Sherfane Rutherford - 9(7)  
+✊ Current Batsman - Shubman Gill - 38(42)  
 
-✊ Current Bowler - Will Jacks - 0.5 Over 9 Run - 0 Wicket  
+✊ Current Bowler - Will Jacks - 1 Over 15 Run - 0 Wicket  
 
-📑 Status - Gujarat Titans need 68 runs in 43 balls
+📑 Status - Rain stops play - Gujarat Titans need 49 runs in 36 balls
 
-📝 Last Updated on : 5/6/2025, 10:49:14 PM  
+📝 Last Updated on : 5/6/2025, 11:04:20 PM  
 
