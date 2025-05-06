@@ -2,15 +2,15 @@
 title: "Mumbai Indians vs Gujarat Titans, 56th Match - Live Cricket Score"
 ---
 
-🔴 Live Score - GT 5/0 (0.3)  
+🔴 Live Score - GT 13/1 (3)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 4.33  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Jos Buttler - 2(2)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Trent Boult - 1 Over 3 Run - 1 Wicket  
 
-📑 Status - Gujarat Titans need 151 runs
+📑 Status - Gujarat Titans need 143 runs
 
-📝 Last Updated on : 5/6/2025, 9:41:32 PM  
+📝 Last Updated on : 5/6/2025, 9:57:48 PM  
 
