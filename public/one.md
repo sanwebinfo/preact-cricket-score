@@ -1,8 +1,8 @@
 ---
-title: "Mumbai Indians vs Gujarat Titans, 56th Match - Live Cricket Score"
+title: "Kolkata Knight Riders vs Chennai Super Kings, 57th Match - Live Cricket Score"
 ---
 
-📑 Status - Gujarat Titans won by 3 wkts by DLS Method (Target 147)
+📑 Status - Date: 2025-05-07 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 5/7/2025, 8:24:30 AM  
+📝 Last Updated on : 5/7/2025, 9:38:11 AM  
 
