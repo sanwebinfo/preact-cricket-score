@@ -2,15 +2,15 @@
 title: "Kolkata Knight Riders vs Chennai Super Kings, 57th Match - Live Cricket Score"
 ---
 
-🔴 Live Score - CSK 37/2 (2.5)  
+🔴 Live Score - CSK 79/5 (8)  
 
-📊 Run Rate - CRR: 13.06  
+📊 Run Rate - CRR: 9.88  
 
-✊ Current Batsman - Urvil Patel - 31(10)  
+✊ Current Batsman - Shivam Dube - 8(8)  
 
-✊ Current Bowler - Harshit Rana - 0.5 Over 11 Run - 0 Wicket  
+✊ Current Bowler - Sunil Narine - 1 Over 12 Run - 0 Wicket  
 
-📑 Status - Chennai Super Kings need 143 runs
+📑 Status - Chennai Super Kings need 101 runs in 72 balls
 
-📝 Last Updated on : 5/7/2025, 9:37:23 PM  
+📝 Last Updated on : 5/7/2025, 10:05:08 PM  
 
