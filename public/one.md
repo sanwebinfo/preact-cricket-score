@@ -2,15 +2,15 @@
 title: "Punjab Kings vs Delhi Capitals, 58th Match - Live Cricket Score"
 ---
 
-🔴 Live Score - PBKS 84/0 (7.3)  
+🔴 Live Score - PBKS 122/1 (10.1)  
 
-📊 Run Rate - CRR: 11.2  
+📊 Run Rate - CRR: 12  
 
-✊ Current Batsman - Prabhsimran Singh - 31(20)  
+✊ Current Batsman - Shreyas Iyer - 0(0)  
 
-✊ Current Bowler - Kuldeep Yadav - 0.3 Over 5 Run - 0 Wicket  
+✊ Current Bowler - T Natarajan - 1.1 Over 4 Run - 1 Wicket  
 
 📑 Status - Punjab Kings opt to bat
 
-📝 Last Updated on : 5/8/2025, 9:10:25 PM  
+📝 Last Updated on : 5/8/2025, 9:25:35 PM  
 
