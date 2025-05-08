@@ -1,8 +1,8 @@
 ---
-title: "Kolkata Knight Riders vs Chennai Super Kings, 57th Match - Live Cricket Score"
+title: "Punjab Kings vs Delhi Capitals, 58th Match - Live Cricket Score"
 ---
 
-📑 Status - Chennai Super Kings won by 2 wkts
+📑 Status - Date: 2025-05-08 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 5/7/2025, 11:17:30 PM  
+📝 Last Updated on : 5/8/2025, 10:24:34 AM  
 
