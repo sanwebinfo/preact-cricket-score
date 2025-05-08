@@ -10,7 +10,7 @@ title: "Punjab Kings vs Delhi Capitals, 58th Match - Live Cricket Score"
 
 ✊ Current Bowler - T Natarajan - 1.1 Over 4 Run - 1 Wicket  
 
-📑 Status - Punjab Kings opt to bat
+📑 Status - Match abandoned
 
-📝 Last Updated on : 5/8/2025, 9:25:35 PM  
+📝 Last Updated on : 5/8/2025, 9:58:56 PM  
 
