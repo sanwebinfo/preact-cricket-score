@@ -2,7 +2,7 @@
 title: "Delhi Capitals vs Gujarat Titans, 60th Match - Live Cricket Score"
 ---
 
-🔴 Live Score - DC 0/0 (0.3)  
+🔴 Live Score - DC 106/2 (12)  
 
 📊 Run Rate - CRR: Match Stats will Update Soon  
 
@@ -12,7 +12,7 @@ title: "Delhi Capitals vs Gujarat Titans, 60th Match - Live Cricket Score"
 
 📑 Status - Gujarat Titans opt to bowl
 
-📝 Last Updated on : 5/18/2025, 7:33:36 PM  
+📝 Last Updated on : 5/18/2025, 8:35:51 PM  
 
 
 
