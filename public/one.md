@@ -2,15 +2,15 @@
 title: "Rajasthan Royals vs Punjab Kings, 59th Match - Live Cricket Score"
 ---
 
-🔴 Live Score - PBKS 193/5 (18)  
+🔴 Live Score - PBKS 219/5 (20)  
 
-📊 Run Rate - CRR: 10.72  
+📊 Run Rate - CRR: 10.95  
 
-✊ Current Batsman - Shashank Singh - 41(21)  
+✊ Current Batsman - Azmatullah Omarzai - 21(9)  
 
-✊ Current Bowler - Fazalhaq Farooqi - 3 Over 39 Run - 0 Wicket  
+✊ Current Bowler - Tushar Deshpande - 4 Over 37 Run - 2 Wicket  
 
-📑 Status - Punjab Kings opt to bat
+📑 Status - Innings Break
 
-📝 Last Updated on : 5/18/2025, 5:02:45 PM  
+📝 Last Updated on : 5/18/2025, 5:23:00 PM  
 
