@@ -2,15 +2,15 @@
 title: "Lucknow Super Giants vs Sunrisers Hyderabad, 61st Match - Live Cricket Score"
 ---
 
-🔴 Live Score - LSG 115/1 (10.3)  
+🔴 Live Score - LSG 160/3 (15.5)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 10.11  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Nicholas Pooran - 21(12)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Harshal Patel - 2.5 Over 34 Run - 1 Wicket  
 
 📑 Status - Sunrisers Hyderabad opt to bowl
 
-📝 Last Updated on : 5/19/2025, 8:20:18 PM  
+📝 Last Updated on : 5/19/2025, 8:58:55 PM  
 
