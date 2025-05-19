@@ -2,7 +2,15 @@
 title: "Lucknow Super Giants vs Sunrisers Hyderabad, 61st Match - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-05-19 - Time: 07:30:00 PM (Indian Local Time)
+🔴 Live Score - LSG 35/0 (3.4)  
 
-📝 Last Updated on : 5/19/2025, 7:25:05 AM  
+📊 Run Rate - CRR: 9.55  
+
+✊ Current Batsman - Aiden Markram - 7(7)  
+
+✊ Current Bowler - Harsh Dubey - 1.4 Over 15 Run - 0 Wicket  
+
+📑 Status - Sunrisers Hyderabad opt to bowl
+
+📝 Last Updated on : 5/19/2025, 7:45:44 PM  
 
