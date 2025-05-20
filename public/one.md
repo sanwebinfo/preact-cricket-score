@@ -2,15 +2,15 @@
 title: "Chennai Super Kings vs Rajasthan Royals, 62nd Match - Live Cricket Score"
 ---
 
-🔴 Live Score - CSK 185/7 (19.4)  
+🔴 Live Score - RR 110/1 (11)  
 
-📊 Run Rate - CRR: 9.41  
+📊 Run Rate - CRR: 10  
 
-✊ Current Batsman - MS Dhoni - 16(16)  
+✊ Current Batsman - Vaibhav Suryavanshi - 44(23)  
 
-✊ Current Bowler - Akash Madhwal - 3.4 Over 27 Run - 2 Wicket  
+✊ Current Bowler - Noor Ahmad - 1 Over 17 Run - 0 Wicket  
 
-📑 Status - Rajasthan Royals opt to bowl
+📑 Status - Rajasthan Royals need 78 runs in 54 balls
 
-📝 Last Updated on : 5/20/2025, 9:18:11 PM  
+📝 Last Updated on : 5/20/2025, 10:27:46 PM  
 
