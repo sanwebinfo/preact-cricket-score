@@ -1,8 +1,8 @@
 ---
-title: "Lucknow Super Giants vs Sunrisers Hyderabad, 61st Match - Live Cricket Score"
+title: "Chennai Super Kings vs Rajasthan Royals, 62nd Match - Live Cricket Score"
 ---
 
-📑 Status - Sunrisers Hyderabad won by 6 wkts
+📑 Status - Date: 2025-05-20 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 5/20/2025, 5:16:41 AM  
+📝 Last Updated on : 5/20/2025, 8:38:26 AM  
 
