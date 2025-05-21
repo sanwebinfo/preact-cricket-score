@@ -2,15 +2,15 @@
 title: "Mumbai Indians vs Delhi Capitals, 63rd Match - Live Cricket Score"
 ---
 
-🔴 Live Score - MI 73/3 (9)  
+🔴 Live Score - MI 118/4 (15.5)  
 
-📊 Run Rate - CRR: 8.11  
+📊 Run Rate - CRR: 7.45  
 
-✊ Current Batsman - Suryakumar Yadav - 13(8)  
+✊ Current Batsman - Hardik Pandya - 3(4)  
 
-✊ Current Bowler - Kuldeep Yadav - 2 Over 14 Run - 1 Wicket  
+✊ Current Bowler - Kuldeep Yadav - 3.5 Over 22 Run - 1 Wicket  
 
-📑 Status - Date: 2025-05-21 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Delhi Capitals opt to bowl
 
-📝 Last Updated on : 5/21/2025, 8:17:11 PM  
+📝 Last Updated on : 5/21/2025, 8:59:11 PM  
 
