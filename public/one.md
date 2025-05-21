@@ -1,8 +1,8 @@
 ---
-title: "Chennai Super Kings vs Rajasthan Royals, 62nd Match - Live Cricket Score"
+title: "Mumbai Indians vs Delhi Capitals, 63rd Match - Live Cricket Score"
 ---
 
-📑 Status - Rajasthan Royals won by 6 wkts
+📑 Status - Date: 2025-05-21 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 5/21/2025, 5:20:58 AM  
+📝 Last Updated on : 5/21/2025, 8:37:06 AM  
 
