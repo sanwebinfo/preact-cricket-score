@@ -2,7 +2,15 @@
 title: "Mumbai Indians vs Delhi Capitals, 63rd Match - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-05-21 - Time: 07:30:00 PM (Indian Local Time)
+🔴 Live Score - MI 30/1 (3.3)  
 
-📝 Last Updated on : 5/21/2025, 8:37:06 AM  
+📊 Run Rate - CRR: 8.57  
+
+✊ Current Batsman - Will Jacks - 5(4)  
+
+✊ Current Bowler - Vipraj Nigam - 0.3 Over 5 Run - 0 Wicket  
+
+📑 Status - Delhi Capitals opt to bowl
+
+📝 Last Updated on : 5/21/2025, 7:54:26 PM  
 
