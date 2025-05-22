@@ -2,7 +2,15 @@
 title: "Gujarat Titans vs Lucknow Super Giants, 64th Match - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-05-22 - Time: 07:30:00 PM (Indian Local Time)
+🔴 Live Score - LSG 90/0 (9.2)  
 
-📝 Last Updated on : 5/22/2025, 11:56:06 AM  
+📊 Run Rate - CRR: 9.64  
+
+✊ Current Batsman - Mitchell Marsh - 51(33)  
+
+✊ Current Bowler - Ravisrinivasan Sai Kishore - 1.2 Over 15 Run - 0 Wicket  
+
+📑 Status - Gujarat Titans opt to bowl
+
+📝 Last Updated on : 5/22/2025, 8:27:37 PM  
 
