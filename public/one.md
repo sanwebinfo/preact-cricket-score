@@ -1,8 +1,8 @@
 ---
-title: "Gujarat Titans vs Lucknow Super Giants, 64th Match - Live Cricket Score"
+title: "Royal Challengers Bengaluru vs Sunrisers Hyderabad, 65th Match - Live Cricket Score"
 ---
 
-📑 Status - Lucknow Super Giants won by 33 runs
+📑 Status - Date: 2025-05-23 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 5/23/2025, 5:24:05 AM  
+📝 Last Updated on : 5/23/2025, 10:30:40 AM  
 
