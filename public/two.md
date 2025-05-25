@@ -2,17 +2,17 @@
 title: "Sunrisers Hyderabad vs Kolkata Knight Riders, 68th Match - Live Cricket Score"
 ---
 
-🔴 Live Score - KKR 20/0 (2)  
+🔴 Live Score - KKR 61/2 (6.4)  
 
-📊 Run Rate - CRR: 10  
+📊 Run Rate - CRR: 9.15  
 
-✊ Current Batsman - Quinton de Kock - 3(3)  
+✊ Current Batsman - Quinton de Kock - 9(12)  
 
-✊ Current Bowler - Pat Cummins - 1 Over 13 Run - 0 Wicket  
+✊ Current Bowler - Eshan Malinga - 0.4 Over 2 Run - 0 Wicket  
 
-📑 Status - Kolkata Knight Riders need 259 runs
+📑 Status - Kolkata Knight Riders need 218 runs in 80 balls
 
-📝 Last Updated on : 5/25/2025, 9:44:30 PM  
+📝 Last Updated on : 5/25/2025, 10:16:58 PM  
 
 
 
