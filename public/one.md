@@ -1,8 +1,8 @@
 ---
-title: "Gujarat Titans vs Chennai Super Kings, 67th Match - Live Cricket Score"
+title: "Punjab Kings vs Mumbai Indians, 69th Match - Live Cricket Score"
 ---
 
-📑 Status - Chennai Super Kings won by 83 runs
+📑 Status - Date: 2025-05-26 - Time: 07:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 5/25/2025, 9:33:33 PM  
+📝 Last Updated on : 5/26/2025, 10:12:29 AM  
 
