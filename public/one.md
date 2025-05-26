@@ -2,7 +2,15 @@
 title: "Punjab Kings vs Mumbai Indians, 69th Match - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-05-26 - Time: 07:30:00 PM (Indian Local Time)
+🔴 Live Score - MI 17/0 (2)  
 
-📝 Last Updated on : 5/26/2025, 10:12:29 AM  
+📊 Run Rate - CRR: 8.5  
+
+✊ Current Batsman - Rohit Sharma - 1(1)  
+
+✊ Current Bowler - Arshdeep Singh - 1 Over 8 Run - 0 Wicket  
+
+📑 Status - Punjab Kings opt to bowl
+
+📝 Last Updated on : 5/26/2025, 7:44:45 PM  
 
