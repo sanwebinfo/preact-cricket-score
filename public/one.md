@@ -1,16 +1,8 @@
 ---
-title: "Lucknow Super Giants vs Royal Challengers Bengaluru, 70th Match - Live Cricket Score"
+title: "Punjab Kings vs Royal Challengers Bengaluru, Qualifier 1 - Live Cricket Score"
 ---
 
-🔴 Live Score - RCB 123/4 (11.2)  
+📑 Status - Date: 2025-05-29 - Time: 07:30:00 PM (Indian Local Time)
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
-
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
-
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
-
-📑 Status - Royal Challengers Bengaluru need 105 runs in 52 balls
-
-📝 Last Updated on : 5/27/2025, 10:45:10 PM  
+📝 Last Updated on : 5/29/2025, 10:40:57 AM  
 
