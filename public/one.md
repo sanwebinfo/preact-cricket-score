@@ -2,15 +2,15 @@
 title: "Punjab Kings vs Mumbai Indians, Qualifier 2 - Live Cricket Score"
 ---
 
-🔴 Live Score - MI 70/2 (7)  
+🔴 Live Score - MI 94/2 (9.1)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 10.25  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Suryakumar Yadav - 9(7)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Yuzvendra Chahal - 1.1 Over 9 Run - 0 Wicket  
 
 📑 Status - Punjab Kings opt to bowl
 
-📝 Last Updated on : 6/1/2025, 10:29:01 PM  
+📝 Last Updated on : 6/1/2025, 10:44:35 PM  
 
