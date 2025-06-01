@@ -2,7 +2,15 @@
 title: "Punjab Kings vs Mumbai Indians, Qualifier 2 - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-06-01 - Time: 07:30:00 PM (Indian Local Time)
+🔴 Live Score - MI 70/2 (7)  
 
-📝 Last Updated on : 5/31/2025, 9:12:19 AM  
+📊 Run Rate - CRR: Match Stats will Update Soon  
+
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+
+📑 Status - Punjab Kings opt to bowl
+
+📝 Last Updated on : 6/1/2025, 10:29:01 PM  
 
