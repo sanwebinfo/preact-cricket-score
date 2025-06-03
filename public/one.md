@@ -2,15 +2,15 @@
 title: "Royal Challengers Bengaluru vs Punjab Kings, Final - Live Cricket Score"
 ---
 
-🔴 Live Score - RCB 47/1 (5.2)  
+🔴 Live Score - RCB 132/4 (15)  
 
-📊 Run Rate - CRR: 8.81  
+📊 Run Rate - CRR: 8.8  
 
-✊ Current Batsman - Mayank Agarawal - 16(13)  
+✊ Current Batsman - Jitesh Sharma - 1(1)  
 
-✊ Current Bowler - Vijaykumar Vyshak - 0.2 Over 1 Run - 0 Wicket  
+✊ Current Bowler - Yuzvendra Chahal - 4 Over 37 Run - 1 Wicket  
 
 📑 Status - Punjab Kings opt to bowl
 
-📝 Last Updated on : 6/3/2025, 7:57:47 PM  
+📝 Last Updated on : 6/3/2025, 8:56:48 PM  
 
