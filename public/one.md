@@ -1,8 +1,8 @@
 ---
-title: "Royal Challengers Bengaluru vs Punjab Kings, Final - Live Cricket Score"
+title: "South Africa vs Australia, Final - Live Cricket Score"
 ---
 
-📑 Status - Royal Challengers Bengaluru won by 6 runs
+📑 Status - Date: 2025-06-11 - Time: 03:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 6/4/2025, 5:48:05 AM  
+📝 Last Updated on : 6/9/2025, 10:19:41 AM  
 
