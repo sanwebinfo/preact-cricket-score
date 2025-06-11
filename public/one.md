@@ -2,15 +2,15 @@
 title: "South Africa vs Australia, Final - Live Cricket Score"
 ---
 
-🔴 Live Score - AUS 191/5 (50.1)  
+🔴 Live Score - RSA 27/3 (16.3)  
 
-📊 Run Rate - CRR: 3.81  
+📊 Run Rate - CRR: 1.64  
 
-✊ Current Batsman - Alex Carey - 22(29)  
+✊ Current Batsman - Temba Bavuma - 0(22)  
 
-✊ Current Bowler - Kagiso Rabada - 12.1 Over 36 Run - 2 Wicket  
+✊ Current Bowler - Josh Hazlewood - 4.3 Over 8 Run - 0 Wicket  
 
-📑 Status - Day 1: 3rd Session
+📑 Status - Day 1: 3rd Session - South Africa trail by 185 runs
 
-📝 Last Updated on : 6/11/2025, 8:04:27 PM  
+📝 Last Updated on : 6/11/2025, 10:09:36 PM  
 
