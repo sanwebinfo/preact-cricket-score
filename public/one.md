@@ -12,5 +12,5 @@ title: "South Africa vs Australia, Final - Live Cricket Score"
 
 📑 Status - Day 1: Stumps - South Africa trail by 169 runs
 
-📝 Last Updated on : 6/11/2025, 11:05:36 PM  
+📝 Last Updated on : 6/12/2025, 5:37:27 AM  
 
