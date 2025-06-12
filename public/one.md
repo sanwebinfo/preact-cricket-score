@@ -2,15 +2,15 @@
 title: "South Africa vs Australia, Final - Live Cricket Score"
 ---
 
-🔴 Live Score - RSA 43/4 (22)  
+🔴 Live Score - RSA 95/5 (41.3)  
 
-📊 Run Rate - CRR: 1.95  
+📊 Run Rate - CRR: 2.29  
 
-✊ Current Batsman - Temba Bavuma - 3(37)  
+✊ Current Batsman - David Bedingham - 24(74)  
 
-✊ Current Bowler - Pat Cummins - 7 Over 14 Run - 1 Wicket  
+✊ Current Bowler - Pat Cummins - 13.3 Over 24 Run - 2 Wicket  
 
-📑 Status - Day 1: Stumps - South Africa trail by 169 runs
+📑 Status - Day 2: 1st Session - South Africa trail by 117 runs
 
-📝 Last Updated on : 6/12/2025, 5:37:27 AM  
+📝 Last Updated on : 6/12/2025, 4:35:07 PM  
 
