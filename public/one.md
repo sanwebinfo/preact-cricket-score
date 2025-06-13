@@ -2,15 +2,15 @@
 title: "South Africa vs Australia, Final - Live Cricket Score"
 ---
 
-🔴 Live Score - RSA 138 & 145/2 (36.4)  
+🔴 Live Score - RSA 138 & 212/2 (55.2)  
 
-📊 Run Rate - CRR: 3.95  
+📊 Run Rate - CRR: 3.83  
 
-✊ Current Batsman - Aiden Markram - 70(96)  
+✊ Current Batsman - Temba Bavuma - 64(119)  
 
-✊ Current Bowler - Mitchell Starc - 7.4 Over 45 Run - 2 Wicket  
+✊ Current Bowler - Nathan Lyon - 17.2 Over 50 Run - 0 Wicket  
 
-📑 Status - Day 3: 3rd Session - South Africa need 137 runs
+📑 Status - Day 3: 3rd Session - South Africa need 70 runs
 
-📝 Last Updated on : 6/13/2025, 9:04:00 PM  
+📝 Last Updated on : 6/13/2025, 10:33:23 PM  
 
