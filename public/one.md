@@ -2,7 +2,15 @@
 title: "England vs India, 1st Test - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-06-20 - Time: 03:30:00 PM (Indian Local Time)
+🔴 Live Score - IND 0/0 (0.5)  
 
-📝 Last Updated on : 6/20/2025, 3:08:00 PM  
+📊 Run Rate - CRR: Match Stats will Update Soon  
+
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+
+📑 Status - Day 1: 1st Session
+
+📝 Last Updated on : 6/20/2025, 3:38:04 PM  
 
