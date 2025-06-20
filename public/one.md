@@ -2,15 +2,15 @@
 title: "England vs India, 1st Test - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 195/2 (47.2)  
+🔴 Live Score - IND 229/3 (55)  
 
-📊 Run Rate - CRR: 4.12  
+📊 Run Rate - CRR: 4.16  
 
-✊ Current Batsman - Yashasvi Jaiswal - 86(135)  
+✊ Current Batsman - Shubman Gill - 65(82)  
 
-✊ Current Bowler - Shoaib Bashir - 4.2 Over 18 Run - 0 Wicket  
+✊ Current Bowler - Shoaib Bashir - 8 Over 25 Run - 0 Wicket  
 
-📑 Status - Day 1: 2nd Session
+📑 Status - Day 1: 3rd Session
 
-📝 Last Updated on : 6/20/2025, 7:54:45 PM  
+📝 Last Updated on : 6/20/2025, 8:49:23 PM  
 
