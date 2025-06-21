@@ -2,15 +2,15 @@
 title: "England vs India, 1st Test - Live Cricket Score"
 ---
 
-🔴 Live Score - ENG 96/1 (20)  
+🔴 Live Score - ENG 138/2 (34)  
 
-📊 Run Rate - CRR: 4.8  
+📊 Run Rate - CRR: 4.06  
 
-✊ Current Batsman - Ollie Pope - 45(51)  
+✊ Current Batsman - Ollie Pope - 62(81)  
 
-✊ Current Bowler - Mohammed Siraj - 8 Over 34 Run - 0 Wicket  
+✊ Current Bowler - Jasprit Bumrah - 11 Over 43 Run - 2 Wicket  
 
-📑 Status - Day 2: 2nd Session - England trail by 375 runs
+📑 Status - Day 2: 3rd Session - England trail by 333 runs
 
-📝 Last Updated on : 6/21/2025, 9:04:18 PM  
+📝 Last Updated on : 6/21/2025, 10:30:35 PM  
 
