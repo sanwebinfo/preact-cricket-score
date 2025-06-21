@@ -2,15 +2,15 @@
 title: "England vs India, 1st Test - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 359/3 (85)  
+🔴 Live Score - IND 454/7 (108.4)  
 
-📊 Run Rate - CRR: 4.22  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Shubman Gill - 127(175)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Chris Woakes - 19 Over 89 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Day 1: Stumps
+📑 Status - Day 2: Lunch Break
 
-📝 Last Updated on : 6/21/2025, 5:18:37 AM  
+📝 Last Updated on : 6/21/2025, 5:40:56 PM  
 
