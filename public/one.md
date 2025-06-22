@@ -2,15 +2,15 @@
 title: "England vs India, 1st Test - Live Cricket Score"
 ---
 
-🔴 Live Score - ENG 275/4 (64.2)  
+🔴 Live Score - ENG 282/5 (67.4)  
 
-📊 Run Rate - CRR: 4.27  
+📊 Run Rate - CRR: 4.17  
 
-✊ Current Batsman - Harry Brook - 40(48)  
+✊ Current Batsman - Harry Brook - 42(56)  
 
-✊ Current Bowler - Mohammed Siraj - 17.2 Over 68 Run - 0 Wicket  
+✊ Current Bowler - Ravindra Jadeja - 14.4 Over 40 Run - 0 Wicket  
 
-📑 Status - Day 3: 1st Session - England trail by 196 runs
+📑 Status - Day 3: 1st Session - England trail by 189 runs
 
-📝 Last Updated on : 6/22/2025, 4:46:56 PM  
+📝 Last Updated on : 6/22/2025, 4:56:54 PM  
 
