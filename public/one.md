@@ -12,5 +12,5 @@ title: "England vs India, 1st Test - Live Cricket Score"
 
 📑 Status - Day 3: Stumps - India lead by 96 runs
 
-📝 Last Updated on : 6/22/2025, 10:46:18 PM  
+📝 Last Updated on : 6/23/2025, 5:15:21 AM  
 
