@@ -8,9 +8,9 @@ title: "England vs India, 1st Test - Live Cricket Score"
 
 ✊ Current Batsman - Rishabh Pant - 31(59)  
 
-✊ Current Bowler - Shoaib Bashir - 5 Over 17 Run - 0 Wicket  
+✊ Current Bowler - Josh Tongue - 9 Over 28 Run - 0 Wicket  
 
-📑 Status - Day 4: Lunch Break - India lead by 159 runs
+📑 Status - Day 4: 2nd Session - India lead by 159 runs
 
-📝 Last Updated on : 6/23/2025, 5:51:22 PM  
+📝 Last Updated on : 6/23/2025, 6:14:34 PM  
 
