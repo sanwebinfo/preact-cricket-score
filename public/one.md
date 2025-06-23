@@ -2,15 +2,15 @@
 title: "England vs India, 1st Test - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 471 & 145/3 (44.4)  
+🔴 Live Score - IND 471 & 153/3 (48)  
 
-📊 Run Rate - CRR: 3.25  
+📊 Run Rate - CRR: 3.19  
 
-✊ Current Batsman - Rishabh Pant - 26(48)  
+✊ Current Batsman - Rishabh Pant - 31(59)  
 
-✊ Current Bowler - Ben Stokes - 9.4 Over 33 Run - 1 Wicket  
+✊ Current Bowler - Shoaib Bashir - 5 Over 17 Run - 0 Wicket  
 
-📑 Status - Day 4: 1st Session - India lead by 151 runs
+📑 Status - Day 4: Lunch Break - India lead by 159 runs
 
-📝 Last Updated on : 6/23/2025, 5:19:00 PM  
+📝 Last Updated on : 6/23/2025, 5:51:22 PM  
 
