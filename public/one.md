@@ -2,15 +2,15 @@
 title: "England vs India, 1st Test - Live Cricket Score"
 ---
 
-🔴 Live Score - ENG 465 & 21/0 (6)  
+🔴 Live Score - ENG 465 & 117/0 (30)  
 
-📊 Run Rate - CRR: 3.5  
+📊 Run Rate - CRR: 3.9  
 
-✊ Current Batsman - Ben Duckett - 9(11)  
+✊ Current Batsman - Ben Duckett - 64(89)  
 
-✊ Current Bowler - Ravindra Jadeja - 1 Over 3 Run - 0 Wicket  
+✊ Current Bowler - Mohammed Siraj - 8 Over 23 Run - 0 Wicket  
 
-📑 Status - Day 4: Stumps - England need 350 runs
+📑 Status - Day 5: Lunch Break - England need 254 runs
 
-📝 Last Updated on : 6/24/2025, 5:20:07 AM  
+📝 Last Updated on : 6/24/2025, 5:31:57 PM  
 
