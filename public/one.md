@@ -2,15 +2,15 @@
 title: "England vs India, 1st Test - Live Cricket Score"
 ---
 
-🔴 Live Score - ENG 465 & 335/5 (76.1)  
+🔴 Live Score - ENG 465 & 349/5 (79.2)  
 
 📊 Run Rate - CRR: 4.4  
 
-✊ Current Batsman - Jamie Smith - 16(28)  
+✊ Current Batsman - Jamie Smith - 25(42)  
 
-✊ Current Bowler - Shardul Thakur - 8.1 Over 38 Run - 2 Wicket  
+✊ Current Bowler - Ravindra Jadeja - 22.2 Over 86 Run - 1 Wicket  
 
-📑 Status - Day 5: 3rd Session - England need 36 runs
+📑 Status - Day 5: 3rd Session - England need 22 runs
 
-📝 Last Updated on : 6/24/2025, 10:31:50 PM  
+📝 Last Updated on : 6/24/2025, 10:50:33 PM  
 
