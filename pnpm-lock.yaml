@@ -13,8 +13,8 @@ importers:
         version: 10.26.9
     devDependencies:
       '@preact/preset-vite':
-        specifier: ^2.10.1
-        version: 2.10.1(@babel/core@7.26.0)(preact@10.26.9)(vite@6.3.5)
+        specifier: ^2.10.2
+        version: 2.10.2(@babel/core@7.26.0)(preact@10.26.9)(vite@6.3.5)
       typescript:
         specifier: ^5.8.3
         version: 5.8.3
@@ -285,11 +285,11 @@ packages:
   '@jridgewell/trace-mapping@0.3.25':
     resolution: {integrity: sha512-vNk6aEwybGtawWmy/PzwnGDOjCkLWSD2wqvjGGAgOAwCGWySYXfYoxt00IJkTF+8Lb57DwOb3Aa0o9CApepiYQ==}
 
-  '@preact/preset-vite@2.10.1':
-    resolution: {integrity: sha512-59lyGBXNfZIr5OOuBUB4/IB8AqF/ULbvYnyItgK/2BJnsGJqaeaJobRVtMp1129obHQuj8oZ/dVxB9inmH8Xig==}
+  '@preact/preset-vite@2.10.2':
+    resolution: {integrity: sha512-K9wHlJOtkE+cGqlyQ5v9kL3Ge0Ql4LlIZjkUTL+1zf3nNdF88F9UZN6VTV8jdzBX9Fl7WSzeNMSDG7qECPmSmg==}
     peerDependencies:
       '@babel/core': 7.x
-      vite: 2.x || 3.x || 4.x || 5.x || 6.x
+      vite: 2.x || 3.x || 4.x || 5.x || 6.x || 7.x
 
   '@prefresh/babel-plugin@0.5.1':
     resolution: {integrity: sha512-uG3jGEAysxWoyG3XkYfjYHgaySFrSsaEb4GagLzYaxlydbuREtaX+FTxuIidp241RaLl85XoHg9Ej6E4+V1pcg==}
@@ -875,7 +875,7 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.0
 
-  '@preact/preset-vite@2.10.1(@babel/core@7.26.0)(preact@10.26.9)(vite@6.3.5)':
+  '@preact/preset-vite@2.10.2(@babel/core@7.26.0)(preact@10.26.9)(vite@6.3.5)':
     dependencies:
       '@babel/core': 7.26.0
       '@babel/plugin-transform-react-jsx': 7.25.9(@babel/core@7.26.0)
@@ -884,7 +884,7 @@ snapshots:
       '@rollup/pluginutils': 4.2.1
       babel-plugin-transform-hook-names: 1.0.2(@babel/core@7.26.0)
       debug: 4.4.0
-      kolorist: 1.8.0
+      picocolors: 1.1.1
       vite: 6.3.5
       vite-prerender-plugin: 0.5.3
     transitivePeerDependencies:
