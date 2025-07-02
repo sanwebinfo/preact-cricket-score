@@ -1,8 +1,8 @@
 ---
-title: "England vs India, 1st Test - Live Cricket Score"
+title: "England vs India, 2nd Test - Live Cricket Score"
 ---
 
-📑 Status - England won by 5 wkts
+📑 Status - Date: 2025-07-02 - Time: 03:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 6/25/2025, 5:14:08 AM  
+📝 Last Updated on : 7/2/2025, 2:30:45 PM  
 
