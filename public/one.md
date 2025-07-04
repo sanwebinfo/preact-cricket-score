@@ -2,15 +2,15 @@
 title: "England vs India, 2nd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - ENG 77/3 (20)  
+🔴 Live Score - ENG 88/5 (22)  
 
-📊 Run Rate - CRR: 3.85  
+📊 Run Rate - CRR: 4  
 
-✊ Current Batsman - Joe Root - 18(37)  
+✊ Current Batsman - Harry Brook - 31(55)  
 
-✊ Current Bowler - Prasidh Krishna - 3 Over 11 Run - 0 Wicket  
+✊ Current Bowler - Akash Deep - 8 Over 42 Run - 2 Wicket  
 
-📑 Status - Day 2: Stumps - England trail by 510 runs
+📑 Status - Day 3: 1st Session - England trail by 499 runs
 
-📝 Last Updated on : 7/4/2025, 5:19:03 AM  
+📝 Last Updated on : 7/4/2025, 3:47:10 PM  
 
