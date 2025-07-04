@@ -2,15 +2,15 @@
 title: "England vs India, 2nd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - ENG 249/5 (47)  
+🔴 Live Score - ENG 407/9 (89.2)  
 
-📊 Run Rate - CRR: 5.3  
+📊 Run Rate - CRR: 4.56  
 
-✊ Current Batsman - Jamie Smith - 102(82)  
+✊ Current Batsman - Shoaib Bashir - 0(1)  
 
-✊ Current Bowler - Ravindra Jadeja - 10 Over 48 Run - 0 Wicket  
+✊ Current Bowler - Mohammed Siraj - 19.2 Over 70 Run - 5 Wicket  
 
-📑 Status - Day 3: Lunch Break - England trail by 338 runs
+📑 Status - Date: 2025-07-02 - Time: 03:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 7/4/2025, 5:56:42 PM  
+📝 Last Updated on : 7/4/2025, 9:48:40 PM  
 
