@@ -2,15 +2,15 @@
 title: "England vs India, 2nd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 587 & 304/4 (68)  
+🔴 Live Score - IND 587 & 411/5 (80.5)  
 
-📊 Run Rate - CRR: 4.47  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Shubman Gill - 100(130)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Joe Root - 4 Over 13 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Day 4: Tea Break - India lead by 484 runs
+📑 Status - Day 4: 3rd Session - India lead by 591 runs
 
-📝 Last Updated on : 7/5/2025, 8:30:50 PM  
+📝 Last Updated on : 7/5/2025, 9:21:49 PM  
 
