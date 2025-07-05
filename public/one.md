@@ -2,15 +2,15 @@
 title: "England vs India, 2nd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - ENG 407 & 30/1 (4.2)  
+🔴 Live Score - ENG 407 & 72/3 (16)  
 
-📊 Run Rate - CRR: 6.92  
+📊 Run Rate - CRR: 4.5  
 
-✊ Current Batsman - Ben Duckett - 25(14)  
+✊ Current Batsman - Harry Brook - 15(15)  
 
-✊ Current Bowler - Akash Deep - 2.2 Over 7 Run - 0 Wicket  
+✊ Current Bowler - Akash Deep - 8 Over 36 Run - 2 Wicket  
 
-📑 Status - Day 4: 3rd Session - England need 578 runs
+📑 Status - Day 4: Stumps - England need 536 runs
 
-📝 Last Updated on : 7/5/2025, 10:06:11 PM  
+📝 Last Updated on : 7/6/2025, 5:08:13 AM  
 
