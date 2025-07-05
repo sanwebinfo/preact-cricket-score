@@ -2,15 +2,15 @@
 title: "England vs India, 2nd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 587 & 142/3 (31)  
+🔴 Live Score - IND 587 & 199/3 (40.4)  
 
-📊 Run Rate - CRR: 4.58  
+📊 Run Rate - CRR: 4.89  
 
-✊ Current Batsman - Rishabh Pant - 11(8)  
+✊ Current Batsman - Rishabh Pant - 47(39)  
 
-✊ Current Bowler - Josh Tongue - 5 Over 32 Run - 2 Wicket  
+✊ Current Bowler - Shoaib Bashir - 4.4 Over 25 Run - 0 Wicket  
 
-📑 Status - Day 4: 1st Session - India lead by 322 runs
+📑 Status - Day 4: 2nd Session - India lead by 379 runs
 
-📝 Last Updated on : 7/5/2025, 5:02:42 PM  
+📝 Last Updated on : 7/5/2025, 6:23:16 PM  
 
