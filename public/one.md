@@ -1,16 +1,16 @@
 ---
-title: "England vs India, 2nd Test - Live Cricket Score"
+title: "England vs India, 3rd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - ENG 407 & 153/6 (40.3)  
+🔴 Live Score - ENG 57/2 (18.4)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 3.05  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Joe Root - 12(15)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Akash Deep - 4.4 Over 21 Run - 0 Wicket  
 
-📑 Status - Day 5: Lunch Break - England need 455 runs
+📑 Status - Day 1: 1st Session
 
-📝 Last Updated on : 7/6/2025, 7:18:18 PM  
+📝 Last Updated on : 7/10/2025, 5:05:42 PM  
 
