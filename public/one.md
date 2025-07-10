@@ -2,15 +2,15 @@
 title: "England vs India, 3rd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - ENG 57/2 (18.4)  
+🔴 Live Score - ENG 66/2 (20.3)  
 
-📊 Run Rate - CRR: 3.05  
+📊 Run Rate - CRR: 3.22  
 
-✊ Current Batsman - Joe Root - 12(15)  
+✊ Current Batsman - Ollie Pope - 6(22)  
 
-✊ Current Bowler - Akash Deep - 4.4 Over 21 Run - 0 Wicket  
+✊ Current Bowler - Akash Deep - 5.3 Over 23 Run - 0 Wicket  
 
 📑 Status - Day 1: 1st Session
 
-📝 Last Updated on : 7/10/2025, 5:05:42 PM  
+📝 Last Updated on : 7/10/2025, 5:12:50 PM  
 
