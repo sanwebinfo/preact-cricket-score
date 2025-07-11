@@ -2,15 +2,15 @@
 title: "England vs India, 3rd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 107/3 (33.1)  
+🔴 Live Score - IND 145/3 (43)  
 
-📊 Run Rate - CRR: 3.23  
+📊 Run Rate - CRR: 3.37  
 
-✊ Current Batsman - Rishabh Pant - 0(0)  
+✊ Current Batsman - Rishabh Pant - 19(33)  
 
-✊ Current Bowler - Chris Woakes - 10.1 Over 46 Run - 1 Wicket  
+✊ Current Bowler - Shoaib Bashir - 6 Over 22 Run - 0 Wicket  
 
-📑 Status - Day 2: 3rd Session - India trail by 280 runs
+📑 Status - Day 2: Stumps - India trail by 242 runs
 
-📝 Last Updated on : 7/11/2025, 10:16:30 PM  
+📝 Last Updated on : 7/12/2025, 12:02:02 AM  
 
