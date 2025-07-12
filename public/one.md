@@ -12,5 +12,5 @@ title: "England vs India, 3rd Test - Live Cricket Score"
 
 📑 Status - Day 2: Stumps - India trail by 242 runs
 
-📝 Last Updated on : 7/12/2025, 12:02:02 AM  
+📝 Last Updated on : 7/12/2025, 6:32:52 AM  
 
