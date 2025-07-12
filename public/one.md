@@ -2,15 +2,15 @@
 title: "England vs India, 3rd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 259/5 (70.5)  
+🔴 Live Score - IND 302/5 (86.1)  
 
-📊 Run Rate - CRR: 3.66  
+📊 Run Rate - CRR: 3.5  
 
-✊ Current Batsman - Nitish Kumar Reddy - 0(11)  
+✊ Current Batsman - Ravindra Jadeja - 32(57)  
 
-✊ Current Bowler - Jofra Archer - 16.5 Over 38 Run - 1 Wicket  
+✊ Current Bowler - Chris Woakes - 20.1 Over 74 Run - 1 Wicket  
 
-📑 Status - Day 3: 2nd Session - India trail by 128 runs
+📑 Status - Day 3: 2nd Session - India trail by 85 runs
 
-📝 Last Updated on : 7/12/2025, 6:37:00 PM  
+📝 Last Updated on : 7/12/2025, 7:45:34 PM  
 
