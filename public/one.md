@@ -2,15 +2,15 @@
 title: "England vs India, 3rd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 387 & 112/8 (39.3)  
+🔴 Live Score - IND 387 & 119/8 (42.4)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 2.79  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Jasprit Bumrah - 0(9)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Jofra Archer - 11.4 Over 47 Run - 3 Wicket  
 
-📑 Status - Day 5: Lunch Break - India need 81 runs
+📑 Status - Day 5: 2nd Session - India need 74 runs
 
-📝 Last Updated on : 7/14/2025, 5:36:45 PM  
+📝 Last Updated on : 7/14/2025, 6:23:17 PM  
 
