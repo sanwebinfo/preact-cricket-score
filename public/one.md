@@ -2,15 +2,15 @@
 title: "England vs India, 4th Test - Live Cricket Score"
 ---
 
-🔴 Live Score - ENG 151/0 (28.4)  
+🔴 Live Score - ENG 197/1 (38)  
 
-📊 Run Rate - CRR: 5.27  
+📊 Run Rate - CRR: 5.18  
 
-✊ Current Batsman - Ben Duckett - 69(72)  
+✊ Current Batsman - Ben Duckett - 94(99)  
 
-✊ Current Bowler - Mohammed Siraj - 6.4 Over 40 Run - 0 Wicket  
+✊ Current Bowler - Anshul Kamboj - 6 Over 35 Run - 0 Wicket  
 
-📑 Status - Day 2: 3rd Session - England trail by 207 runs
+📑 Status - Day 2: 3rd Session - England trail by 161 runs
 
-📝 Last Updated on : 7/24/2025, 9:41:00 PM  
+📝 Last Updated on : 7/24/2025, 10:27:10 PM  
 
