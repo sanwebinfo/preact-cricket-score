@@ -2,15 +2,15 @@
 title: "England vs India, 4th Test - Live Cricket Score"
 ---
 
-🔴 Live Score - ENG 214/2 (43.1)  
+🔴 Live Score - ENG 225/2 (46)  
 
-📊 Run Rate - CRR: 4.96  
+📊 Run Rate - CRR: 4.89  
 
-✊ Current Batsman - Joe Root - 6(15)  
+✊ Current Batsman - Joe Root - 11(27)  
 
-✊ Current Bowler - Jasprit Bumrah - 11.1 Over 30 Run - 0 Wicket  
+✊ Current Bowler - Jasprit Bumrah - 13 Over 37 Run - 0 Wicket  
 
-📑 Status - Day 2: 3rd Session - England trail by 144 runs
+📑 Status - Day 2: Stumps - England trail by 133 runs
 
-📝 Last Updated on : 7/24/2025, 10:50:50 PM  
+📝 Last Updated on : 7/24/2025, 11:18:05 PM  
 
