@@ -12,5 +12,5 @@ title: "England vs India, 4th Test - Live Cricket Score"
 
 📑 Status - Day 2: Stumps - England trail by 133 runs
 
-📝 Last Updated on : 7/24/2025, 11:18:05 PM  
+📝 Last Updated on : 7/25/2025, 10:25:57 AM  
 
