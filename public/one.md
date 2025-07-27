@@ -2,15 +2,15 @@
 title: "England vs India, 4th Test - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 358 & 217/3 (86.4)  
+🔴 Live Score - IND 358 & 279/4 (104.2)  
 
-📊 Run Rate - CRR: 2.5  
+📊 Run Rate - CRR: 2.67  
 
-✊ Current Batsman - Shubman Gill - 101(235)  
+✊ Current Batsman - Washington Sundar - 39(103)  
 
-✊ Current Bowler - Chris Woakes - 18.4 Over 55 Run - 2 Wicket  
+✊ Current Bowler - Brydon Carse - 13.2 Over 38 Run - 0 Wicket  
 
-📑 Status - Day 5: 1st Session - India trail by 94 runs
+📑 Status - Day 5: 2nd Session - India trail by 32 runs
 
-📝 Last Updated on : 7/27/2025, 5:21:04 PM  
+📝 Last Updated on : 7/27/2025, 7:19:09 PM  
 
