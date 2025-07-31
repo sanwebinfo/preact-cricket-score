@@ -12,5 +12,5 @@ title: "England vs India, 5th Test - Live Cricket Score"
 
 📑 Status - Day 1: Rain stops play
 
-📝 Last Updated on : 7/31/2025, 8:01:01 PM  
+📝 Last Updated on : 7/31/2025, 8:30:18 PM  
 
