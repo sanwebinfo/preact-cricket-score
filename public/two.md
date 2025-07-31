@@ -1,8 +1,18 @@
 ---
-title: "West Indies vs Australia, 3rd T20I - Live Cricket Score"
---- 
+title: "Zimbabwe vs New Zealand, 1st Test - Live Cricket Score"
+---
 
-📑 Status - Australia won by 6 wkts
+🔴 Live Score - NZ 92/0 (26)  
 
-📝 Last Updated on : 7/26/2025, 9:03:10 AM  
+📊 Run Rate - CRR: 3.54  
+
+✊ Current Batsman - Will Young - 41(69)  
+
+✊ Current Bowler - Vincent Masekesa - 1 Over 2 Run - 0 Wicket  
+
+📑 Status - Day 1: Stumps - New Zealand trail by 57 runs
+
+📝 Last Updated on : 7/31/2025, 7:39:04 AM  
+
+
 
