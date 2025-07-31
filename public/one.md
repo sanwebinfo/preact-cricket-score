@@ -12,5 +12,5 @@ title: "England vs India, 5th Test - Live Cricket Score"
 
 📑 Status - Day 1: 2nd session delayed due to wet outfield
 
-📝 Last Updated on : 7/31/2025, 6:18:06 PM  
+📝 Last Updated on : 7/31/2025, 7:30:49 PM  
 
