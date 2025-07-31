@@ -1,8 +1,8 @@
 ---
-title: "England vs India, 4th Test - Live Cricket Score"
+title: "England vs India, 5th Test - Live Cricket Score"
 ---
 
-📑 Status - Match drawn
+📑 Status - Date: 2025-07-31 - Time: 03:30:00 PM (Indian Local Time)
 
-📝 Last Updated on : 7/27/2025, 11:11:22 PM  
+📝 Last Updated on : 7/31/2025, 7:35:56 AM  
 
