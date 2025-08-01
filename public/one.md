@@ -2,15 +2,15 @@
 title: "England vs India, 5th Test - Live Cricket Score"
 ---
 
-🔴 Live Score - ENG 242/8 (48.3)  
+🔴 Live Score - IND 224 & 29/0 (7.2)  
 
-📊 Run Rate - CRR: 4.99  
+📊 Run Rate - CRR: 3.95  
 
-✊ Current Batsman - Harry Brook - 48(52)  
+✊ Current Batsman - Yashasvi Jaiswal - 25(22)  
 
-✊ Current Bowler - Prasidh Krishna - 14.3 Over 60 Run - 4 Wicket  
+✊ Current Bowler - Josh Tongue - 3.2 Over 6 Run - 0 Wicket  
 
-📑 Status - Day 2: 3rd Session - England lead by 18 runs
+📑 Status - Day 2: 3rd Session - India lead by 6 runs
 
-📝 Last Updated on : 8/1/2025, 9:59:11 PM  
+📝 Last Updated on : 8/1/2025, 10:52:03 PM  
 
