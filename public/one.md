@@ -2,15 +2,15 @@
 title: "England vs India, 5th Test - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 224 & 364/9 (85)  
+🔴 Live Score - IND 224 & 396 (88)  
 
-📊 Run Rate - CRR: 4.28  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Washington Sundar - 23(29)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Josh Tongue - 28 Over 110 Run - 4 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Day 3: 3rd Session - India lead by 341 runs
+📑 Status - Day 3: Innings Break - India lead by 373 runs
 
-📝 Last Updated on : 8/2/2025, 9:58:08 PM  
+📝 Last Updated on : 8/2/2025, 10:16:57 PM  
 
