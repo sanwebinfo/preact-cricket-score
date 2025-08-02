@@ -53,6 +53,7 @@ export default function LiveScoreDisplay({
   return (
     <div class="card">
       <div class="card-title">
+      <h3>🏏 Live Score</h3>
         <button 
           class="icon-button" 
           onClick={fetchContent}

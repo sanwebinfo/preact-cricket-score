@@ -35,7 +35,7 @@ export default function ApiInputForm({ onSave }: ApiInputFormProps) {
   return (
     <div class="card">
       <div class="card-title">
-        <h3>Choose Match <span class="match-status">{getMatchStatus()}</span></h3>
+        <h3>🥎 Choose Match <span class="match-status">{getMatchStatus()}</span></h3>
       </div>
       
       <div class="form-control">
