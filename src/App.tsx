@@ -1,63 +1,59 @@
-import { useState, useEffect } from "preact/hooks";
+import { useState } from "preact/hooks";
 import ApiInputForm from "./components/ApiInputForm";
 import LiveScoreDisplay from "./components/LiveScoreDisplay";
 import DarkModeToggle from "./components/DarkModeToggle";
+import Notification from "./components/Notification";
+
+interface NotificationItem {
+  id: string;
+  message: string;
+  type: 'success' | 'error' | 'info';
+}
 
 export default function App() {
-  const [markdownUrl, setMarkdownUrl] = useState(() => localStorage.getItem("markdownUrl") || "one.md");
-  const [lastContent, setLastContent] = useState<string | null>(null);
-  const [notifications, setNotifications] = useState<string[]>([]);
+  const [markdownUrl, setMarkdownUrl] = useState<string>("one.md");
+  const [notifications, setNotifications] = useState<NotificationItem[]>([]);
 
-  const [isPageLoaded, setIsPageLoaded] = useState(false);
-
-  useEffect(() => {
-    if (!isPageLoaded) {
-      setIsPageLoaded(true);
-    }
-  }, [isPageLoaded]);
-
-  const handleSave = (url: string) => {
-    setMarkdownUrl(url);
-  };
-
-  const handleContentChange = (newContent: string) => {
-    if (newContent !== lastContent) {
-      setLastContent(newContent);
-    }
-  };
-
-  const showNotification = () => {
-    setNotifications((prev) => [
-      ...prev,
-      "Live score content updated",
-    ]);
+  const showNotification = (message: string, type: 'success' | 'error' | 'info' = 'info') => {
+    const id = Date.now().toString();
+    setNotifications((prev) => [...prev, { id, message, type }]);
+    
     setTimeout(() => {
-      setNotifications((prev) => prev.slice(1));
-    }, 2000);
+      removeNotification(id);
+    }, 5000);
+  };
+
+  const removeNotification = (id: string) => {
+    setNotifications((prev) => prev.filter((n) => n.id !== id));
   };
 
   return (
-    <section class="section">
+    <div class="app-container">
       <div class="container">
-        <div class="columns is-centered">
-          <div class="column is-three-fifths">
-            <DarkModeToggle />
-            <div class="notifications-section">
-              {notifications.length > 0 && (
-                <div class="notification is-success is-light">
-                  {notifications[0]}
-                </div>
-              )}
-            </div>
-            <ApiInputForm onSave={handleSave} />
+        <DarkModeToggle />
+        
+        <div class="notification-container">
+          {notifications.map((notification) => (
+            <Notification
+              key={notification.id}
+              message={notification.message}
+              type={notification.type}
+              onClose={() => removeNotification(notification.id)}
+            />
+          ))}
+        </div>
+
+        <main class="main-content">
+          <div class="content-wrapper">
+            <ApiInputForm onSave={setMarkdownUrl} />
             <LiveScoreDisplay
               markdownUrl={markdownUrl}
-              onContentChange={handleContentChange}
-              onRefresh={showNotification}
+              onContentChange={() => {}}
+              onRefresh={() => showNotification("Scores updated successfully", "success")}
             />
           </div>
-        </div>
+        </main>
       </div>
-    </section>
+    </div>
   );
 }

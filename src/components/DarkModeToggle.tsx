@@ -1,33 +1,41 @@
 import { useState, useEffect } from "preact/hooks";
 
 export default function DarkModeToggle() {
-  const [darkMode, setDarkMode] = useState<boolean>(() => localStorage.getItem("theme") === "dark");
+  const [darkMode, setDarkMode] = useState<boolean>(() => {
+    if (typeof window !== 'undefined') {
+      return localStorage.getItem("theme") === "dark";
+    }
+    return false;
+  });
 
   useEffect(() => {
     const body = document.body;
     const html = document.documentElement;
 
     if (darkMode) {
-      body.classList.add("dark-mode");
-      html.classList.add("dark-mode");
+      body.setAttribute('data-theme', 'dark');
+      html.setAttribute('data-theme', 'dark');
     } else {
-      body.classList.remove("dark-mode");
-      html.classList.remove("dark-mode");
+      body.removeAttribute('data-theme');
+      html.removeAttribute('data-theme');
     }
 
-    localStorage.setItem("theme", darkMode ? "dark" : "light");
+    if (typeof window !== 'undefined') {
+      localStorage.setItem("theme", darkMode ? "dark" : "light");
+    }
   }, [darkMode]);
 
   return (
-    <div class="dark-mode-toggle has-text-white has-text-centered mt-2">
-      <label class="switch">
-        <input
-          type="checkbox"
-          checked={darkMode}
-          onChange={() => setDarkMode((prevMode) => !prevMode)}
-        />
-        <span class="slider round"></span>
-      </label>
+    <div class="theme-toggle">
+      <button 
+        class="theme-toggle-button"
+        onClick={() => setDarkMode((prev) => !prev)}
+        aria-label={darkMode ? "Switch to light mode" : "Switch to dark mode"}
+      >
+        <span class="material-icons">
+          {darkMode ? "light_mode" : "dark_mode"}
+        </span>
+      </button>
     </div>
   );
 }

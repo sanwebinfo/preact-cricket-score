@@ -14,19 +14,21 @@ export default function LiveScoreDisplay({
 }: LiveScoreDisplayProps) {
   const [scoreContent, setScoreContent] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const [isLoading, setIsLoading] = useState(false);
 
   const fetchContent = async () => {
     if (!markdownUrl) {
-      setError("Markdown URL is required.");
+      setError("Please select a match first");
       return;
     }
 
     setError(null);
+    setIsLoading(true);
 
     try {
       const content = await fetchMarkdownContent(markdownUrl);
       if (!content) {
-        setError("No content available for the selected match.");
+        setError("No content available for the selected match");
         setScoreContent(null);
         return;
       }
@@ -34,9 +36,11 @@ export default function LiveScoreDisplay({
       setScoreContent(content);
       onContentChange(content);
       onRefresh();
-    } catch (err: any) {
+    } catch (err) {
       setScoreContent(null);
-      setError(err.message || "An unknown error occurred.");
+      setError(err.message || "Failed to fetch live scores");
+    } finally {
+      setIsLoading(false);
     }
   };
 
@@ -47,27 +51,34 @@ export default function LiveScoreDisplay({
   }, [markdownUrl]);
 
   return (
-    <div class="box terminal-style">
-      <h2 class="title is-5 mt-5 text-mode">Live Cricket Score 🏏</h2>
+    <div class="card">
+      <div class="card-title">
+        <button 
+          class="icon-button" 
+          onClick={fetchContent}
+          disabled={isLoading}
+          aria-label="Refresh scores"
+        >
+          {isLoading ? (
+            <span class="spinner"></span>
+          ) : (
+            <span class="material-icons">refresh</span>
+          )}
+        </button>
+      </div>
 
-      {markdownUrl && (
-        <div class="field has-text-centered">
-          <button class="button is-info mb-3" onClick={fetchContent}>
-            Refresh Score
-          </button>
+      {error ? (
+        <div class="score-display">
+          <p>{error}</p>
         </div>
-      )}
-
-      {error && (
-        <div class="notification is-danger mb-2 box">{`Error: ${error}`}</div>
-      )}
-
-      {scoreContent ? (
-        <div class="has-text-white mt-5">
+      ) : scoreContent ? (
+        <div class="score-display">
           <pre>{scoreContent}</pre>
         </div>
       ) : (
-        <p class="text-mode">No live score available or no match selected.</p>
+        <div class="empty-state">
+          <p>No live score available</p>
+        </div>
       )}
     </div>
   );
