@@ -10,7 +10,7 @@ title: "England vs India, 5th Test - Live Cricket Score"
 
 ✊ Current Bowler - Prasidh Krishna - 22.2 Over 109 Run - 3 Wicket  
 
-📑 Status - Day 4: Rain stops play - England need 35 runs
+📑 Status - Day 4: Stumps - England need 35 runs
 
-📝 Last Updated on : 8/3/2025, 10:24:13 PM  
+📝 Last Updated on : 8/3/2025, 10:38:42 PM  
 
