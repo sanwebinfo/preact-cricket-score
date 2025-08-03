@@ -2,15 +2,15 @@
 title: "England vs India, 5th Test - Live Cricket Score"
 ---
 
-🔴 Live Score - ENG 247 & 50/1 (13.5)  
+🔴 Live Score - ENG 247 & 106/3 (28.2)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 3.74  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Joe Root - 8(15)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Prasidh Krishna - 8.2 Over 38 Run - 1 Wicket  
 
-📑 Status - Day 3: Stumps - England need 324 runs
+📑 Status - Day 4: 1st Session - England need 268 runs
 
-📝 Last Updated on : 8/3/2025, 5:56:57 AM  
+📝 Last Updated on : 8/3/2025, 4:48:01 PM  
 
