@@ -1,8 +1,8 @@
 ---
-title: "England vs India, 5th Test - Live Cricket Score"
+title: "Afghanistan vs Hong Kong, 1st Match, Group B - Live Cricket Score"
 ---
 
-📑 Status - India won by 6 runs
+📑 Status - Date: 2025-09-09 - Time: 08:00:00 PM (Indian Local Time)
 
-📝 Last Updated on : 8/4/2025, 4:37:20 PM  
+📝 Last Updated on : 9/9/2025, 3:29:59 PM  
 
