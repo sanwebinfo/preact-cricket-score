@@ -1,8 +1,8 @@
 ---
-title: "Afghanistan vs Hong Kong, 1st Match, Group B - Live Cricket Score"
+title: "India vs United Arab Emirates, 2nd Match, Group A - Live Cricket Score"
 ---
 
-📑 Status - Afghanistan won by 94 runs
+📑 Status - Date: 2025-09-10 - Time: 08:00:00 PM (Indian Local Time)
 
-📝 Last Updated on : 9/10/2025, 8:28:56 AM  
+📝 Last Updated on : 9/10/2025, 12:18:24 PM  
 
