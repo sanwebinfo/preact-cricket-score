@@ -2,15 +2,15 @@
 title: "India vs United Arab Emirates, 2nd Match, Group A - Live Cricket Score"
 ---
 
-🔴 Live Score - UAE 54/8 (12.2)  
+🔴 Live Score - UAE 57 (13.1)  
 
-📊 Run Rate - CRR: 4.38  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Junaid Siddique - 0(1)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Shivam Dube - 1.2 Over 1 Run - 2 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - India opt to bowl
+📑 Status - Innings Break
 
-📝 Last Updated on : 9/10/2025, 9:06:12 PM  
+📝 Last Updated on : 9/10/2025, 9:24:09 PM  
 
