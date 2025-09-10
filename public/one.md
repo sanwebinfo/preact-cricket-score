@@ -2,7 +2,7 @@
 title: "Afghanistan vs Hong Kong, 1st Match, Group B - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-09-09 - Time: 08:00:00 PM (Indian Local Time)
+📑 Status - Afghanistan won by 94 runs
 
-📝 Last Updated on : 9/9/2025, 3:29:59 PM  
+📝 Last Updated on : 9/10/2025, 8:28:56 AM  
 
