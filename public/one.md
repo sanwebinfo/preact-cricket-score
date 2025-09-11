@@ -1,8 +1,8 @@
 ---
-title: "India vs United Arab Emirates, 2nd Match, Group A - Live Cricket Score"
+title: "Bangladesh vs Hong Kong, 3rd Match, Group B - Live Cricket Score"
 ---
 
-📑 Status - India won by 9 wkts
+📑 Status - Date: 2025-09-11 - Time: 08:00:00 PM (Indian Local Time)
 
-📝 Last Updated on : 9/10/2025, 9:58:35 PM  
+📝 Last Updated on : 9/11/2025, 10:27:33 AM  
 
