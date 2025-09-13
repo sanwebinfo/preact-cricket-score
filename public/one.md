@@ -2,7 +2,15 @@
 title: "Bangladesh vs Sri Lanka, 5th Match, Group B - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-09-13 - Time: 08:00:00 PM (Indian Local Time)
+🔴 Live Score - BAN 139/5 (20)  
 
-📝 Last Updated on : 9/13/2025, 5:05:19 PM  
+📊 Run Rate - CRR: 6.95  
+
+✊ Current Batsman - Jaker Ali - 41(34)  
+
+✊ Current Bowler - Matheesha Pathirana - 4 Over 42 Run - 0 Wicket  
+
+📑 Status - Innings Break
+
+📝 Last Updated on : 9/13/2025, 10:04:25 PM  
 
