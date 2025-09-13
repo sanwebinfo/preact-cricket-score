@@ -1,8 +1,8 @@
 ---
-title: "Pakistan vs Oman, 4th Match, Group A - Live Cricket Score"
+title: "Bangladesh vs Sri Lanka, 5th Match, Group B - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-09-12 - Time: 08:00:00 PM (Indian Local Time)
+📑 Status - Date: 2025-09-13 - Time: 08:00:00 PM (Indian Local Time)
 
-📝 Last Updated on : 9/12/2025, 11:02:26 AM  
+📝 Last Updated on : 9/13/2025, 5:05:19 PM  
 
