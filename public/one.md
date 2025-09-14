@@ -2,15 +2,15 @@
 title: "India vs Pakistan, 6th Match, Group A - Live Cricket Score"
 ---
 
-🔴 Live Score - PAK 105/8 (18.1)  
+🔴 Live Score - IND 70/2 (7.4)  
 
-📊 Run Rate - CRR: 5.78  
+📊 Run Rate - CRR: 9.13  
 
-✊ Current Batsman - Sufiyan Muqeem - 5(2)  
+✊ Current Batsman - Tilak Varma - 18(17)  
 
-✊ Current Bowler - Jasprit Bumrah - 3.1 Over 22 Run - 1 Wicket  
+✊ Current Bowler - Sufiyan Muqeem - 0.4 Over 6 Run - 0 Wicket  
 
-📑 Status - Pakistan opt to bat
+📑 Status - India need 58 runs in 74 balls
 
-📝 Last Updated on : 9/14/2025, 9:40:36 PM  
+📝 Last Updated on : 9/14/2025, 10:38:47 PM  
 
