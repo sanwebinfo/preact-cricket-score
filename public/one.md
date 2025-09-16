@@ -1,8 +1,8 @@
 ---
-title: "India vs Pakistan, 6th Match, Group A - Live Cricket Score"
+title: "Bangladesh vs Afghanistan, 9th Match, Group B - Live Cricket Score"
 ---
 
-📑 Status - India won by 7 wkts
+📑 Status - Date: 2025-09-16 - Time: 08:00:00 PM (Indian Local Time)
 
-📝 Last Updated on : 9/15/2025, 5:20:14 AM  
+📝 Last Updated on : 9/16/2025, 9:42:24 AM  
 
