@@ -1,8 +1,8 @@
 ---
-title: "Bangladesh vs Afghanistan, 9th Match, Group B - Live Cricket Score"
+title: "Pakistan vs United Arab Emirates, 10th Match, Group A - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-09-16 - Time: 08:00:00 PM (Indian Local Time)
+📑 Status - Date: 2025-09-17 - Time: 08:00:00 PM (Indian Local Time)
 
-📝 Last Updated on : 9/16/2025, 9:42:24 AM  
+📝 Last Updated on : 9/17/2025, 11:32:04 AM  
 
