@@ -1,8 +1,8 @@
 ---
-title: "Sri Lanka vs Afghanistan, 11th Match, Group B - Live Cricket Score"
+title: "India vs Oman, 12th Match, Group A - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-09-18 - Time: 08:00:00 PM (Indian Local Time)
+📑 Status - Date: 2025-09-19 - Time: 08:00:00 PM (Indian Local Time)
 
-📝 Last Updated on : 9/18/2025, 11:25:49 AM  
+📝 Last Updated on : 9/19/2025, 5:59:19 PM  
 
