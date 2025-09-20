@@ -1,8 +1,8 @@
 ---
-title: "India vs Oman, 12th Match, Group A - Live Cricket Score"
+title: "Sri Lanka vs Bangladesh, Super Fours, Match 1 (B1 v B2) - Live Cricket Score"
 ---
 
-📑 Status - India won by 21 runs
+📑 Status - Date: 2025-09-20 - Time: 08:00:00 PM (Indian Local Time)
 
-📝 Last Updated on : 9/20/2025, 8:25:08 AM  
+📝 Last Updated on : 9/20/2025, 9:40:15 AM  
 
