@@ -1,8 +1,8 @@
 ---
-title: "Zimbabwe vs New Zealand, 1st Test - Live Cricket Score"
+title: "Sri Lanka vs Bangladesh, Super Fours, Match 1 (B1 v B2) - Live Cricket Score"
 --- 
 
-📑 Status - New Zealand won by 9 wkts
+📑 Status - Date: 2025-09-20 - Time: 08:00:00 PM (Indian Local Time)
 
-📝 Last Updated on : 8/4/2025, 8:31:21 AM  
+📝 Last Updated on : 9/20/2025, 9:42:03 AM  
 
