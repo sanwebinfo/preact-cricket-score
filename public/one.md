@@ -1,8 +1,8 @@
 ---
-title: "Sri Lanka vs Bangladesh, Super Fours, Match 1 (B1 v B2) - Live Cricket Score"
+title: "India vs Pakistan, Super Fours, 14th Match (A1 v A2) - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-09-20 - Time: 08:00:00 PM (Indian Local Time)
+📑 Status - Date: 2025-09-21 - Time: 08:00:00 PM (Indian Local Time)
 
-📝 Last Updated on : 9/20/2025, 9:40:15 AM  
+📝 Last Updated on : 9/21/2025, 6:42:48 PM  
 
