@@ -2,15 +2,7 @@
 title: "India vs Pakistan, Super Fours, 14th Match (A1 v A2) - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 112/2 (11.3)  
+📑 Status - India won by 6 wkts
 
-📊 Run Rate - CRR: 9.74  
-
-✊ Current Batsman - Abhishek Sharma - 63(34)  
-
-✊ Current Bowler - Faheem Ashraf - 1.3 Over 10 Run - 1 Wicket  
-
-📑 Status - India need 60 runs in 51 balls
-
-📝 Last Updated on : 9/21/2025, 11:20:53 PM  
+📝 Last Updated on : 9/22/2025, 7:38:55 AM  
 
