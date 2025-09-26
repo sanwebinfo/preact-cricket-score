@@ -2,15 +2,15 @@
 title: "India vs Sri Lanka, Super Fours, 18th Match (A1 v B1) - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 188/5 (18.5)  
+🔴 Live Score - IND 202/5 (20)  
 
-📊 Run Rate - CRR: 9.98  
+📊 Run Rate - CRR: 10.1  
 
-✊ Current Batsman - Axar Patel - 10(10)  
+✊ Current Batsman - Tilak Varma - 49(34)  
 
-✊ Current Bowler - Maheesh Theekshana - 3.5 Over 35 Run - 1 Wicket  
+✊ Current Bowler - Maheesh Theekshana - 4 Over 36 Run - 1 Wicket  
 
-📑 Status - Sri Lanka opt to bowl
+📑 Status - Innings Break
 
-📝 Last Updated on : 9/26/2025, 9:50:41 PM  
+📝 Last Updated on : 9/26/2025, 10:07:58 PM  
 
