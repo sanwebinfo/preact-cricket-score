@@ -2,15 +2,15 @@
 title: "India vs Pakistan, Final - Live Cricket Score"
 ---
 
-🔴 Live Score - PAK 57/0 (7.1)  
+🔴 Live Score - PAK 133/5 (16)  
 
-📊 Run Rate - CRR: 7.95  
+📊 Run Rate - CRR: 8.31  
 
-✊ Current Batsman - Sahibzada Farhan - 40(29)  
+✊ Current Batsman - Salman Agha - 8(6)  
 
-✊ Current Bowler - Axar Patel - 1.1 Over 9 Run - 0 Wicket  
+✊ Current Bowler - Varun Chakaravarthy - 3 Over 25 Run - 2 Wicket  
 
 📑 Status - India opt to bowl
 
-📝 Last Updated on : 9/28/2025, 8:35:16 PM  
+📝 Last Updated on : 9/28/2025, 9:20:56 PM  
 
