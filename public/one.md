@@ -2,7 +2,15 @@
 title: "India vs Pakistan, Final - Live Cricket Score"
 ---
 
-📑 Status - Date: 2025-09-28 - Time: 08:00:00 PM (Indian Local Time)
+🔴 Live Score - PAK 12/0 (2.1)  
 
-📝 Last Updated on : 9/27/2025, 1:18:10 PM  
+📊 Run Rate - CRR: 5.54  
+
+✊ Current Batsman - Sahibzada Farhan - 10(11)  
+
+✊ Current Bowler - Shivam Dube - 1.1 Over 5 Run - 0 Wicket  
+
+📑 Status - India opt to bowl
+
+📝 Last Updated on : 9/28/2025, 8:12:37 PM  
 
