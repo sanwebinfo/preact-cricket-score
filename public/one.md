@@ -2,15 +2,15 @@
 title: "India vs Pakistan, Final - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 11/2 (2.5)  
+🔴 Live Score - IND 35/3 (5.4)  
 
-📊 Run Rate - CRR: 3.88  
+📊 Run Rate - CRR: 6.18  
 
-✊ Current Batsman - Shubman Gill - 4(4)  
+✊ Current Batsman - Tilak Varma - 13(10)  
 
-✊ Current Bowler - Shaheen Afridi - 1.5 Over 8 Run - 1 Wicket  
+✊ Current Bowler - Faheem Ashraf - 2.4 Over 21 Run - 2 Wicket  
 
-📑 Status - India need 136 runs
+📑 Status - India need 112 runs in 86 balls
 
-📝 Last Updated on : 9/28/2025, 10:27:16 PM  
+📝 Last Updated on : 9/28/2025, 10:42:28 PM  
 
