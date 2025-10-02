@@ -1,8 +1,16 @@
 ---
-title: "India vs Pakistan, Final - Live Cricket Score"
+title: "India vs West Indies, 1st Test - Live Cricket Score"
 ---
 
-📑 Status - India won by 5 wkts
+🔴 Live Score - WI 162 (44.1)  
 
-📝 Last Updated on : 9/29/2025, 5:32:15 AM  
+📊 Run Rate - CRR: Match Stats will Update Soon  
+
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+
+📑 Status - Day 1: Tea Break
+
+📝 Last Updated on : 10/2/2025, 2:13:05 PM  
 
