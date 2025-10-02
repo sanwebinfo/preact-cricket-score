@@ -2,15 +2,15 @@
 title: "India vs West Indies, 1st Test - Live Cricket Score"
 ---
 
-🔴 Live Score - WI 162 (44.1)  
+🔴 Live Score - IND 121/2 (38)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 3.18  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - KL Rahul - 53(114)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Johann Layne - 6 Over 14 Run - 0 Wicket  
 
-📑 Status - Day 1: Tea Break
+📑 Status - Day 1: Stumps - India trail by 41 runs
 
-📝 Last Updated on : 10/2/2025, 2:13:05 PM  
+📝 Last Updated on : 10/2/2025, 6:35:05 PM  
 
