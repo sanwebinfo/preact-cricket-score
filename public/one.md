@@ -12,5 +12,5 @@ title: "India vs West Indies, 1st Test - Live Cricket Score"
 
 📑 Status - Day 3: Lunch Break - West Indies trail by 220 runs
 
-📝 Last Updated on : 10/4/2025, 12:07:33 PM  
+📝 Last Updated on : 10/4/2025, 1:07:25 PM  
 
