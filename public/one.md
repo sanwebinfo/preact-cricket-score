@@ -2,15 +2,15 @@
 title: "India vs West Indies, 1st Test - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 448/5 (128)  
+🔴 Live Score - WI 162 & 24/2 (11.3)  
 
-📊 Run Rate - CRR: 3.5  
+📊 Run Rate - CRR: 2.09  
 
-✊ Current Batsman - Washington Sundar - 9(13)  
+✊ Current Batsman - Alick Athanaze - 2(9)  
 
-✊ Current Bowler - Khary Pierre - 29 Over 91 Run - 1 Wicket  
+✊ Current Bowler - Mohammed Siraj - 5.3 Over 14 Run - 1 Wicket  
 
-📑 Status - Day 2: Stumps - India lead by 286 runs
+📑 Status - Day 3: 1st Session - West Indies trail by 262 runs
 
-📝 Last Updated on : 10/3/2025, 5:36:07 PM  
+📝 Last Updated on : 10/4/2025, 10:23:35 AM  
 
