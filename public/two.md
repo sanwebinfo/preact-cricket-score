@@ -1,18 +1,18 @@
 ---
-title: "India vs West Indies, 1st Test - Live Cricket Score"
+title: "India vs West Indies, 2nd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 218/3 (67)  
+🔴 Live Score - IND 318/2 (90)  
 
-📊 Run Rate - CRR: 3.25  
+📊 Run Rate - CRR: 3.53  
 
-✊ Current Batsman - KL Rahul - 100(192)  
+✊ Current Batsman - Yashasvi Jaiswal - 173(253)  
 
-✊ Current Bowler - Jomel Warrican - 8 Over 23 Run - 0 Wicket  
+✊ Current Bowler - Anderson Phillip - 13 Over 44 Run - 0 Wicket  
 
-📑 Status - Day 2: Lunch Break - India lead by 56 runs
+📑 Status - Day 1: Stumps
 
-📝 Last Updated on : 10/3/2025, 11:58:58 AM  
+📝 Last Updated on : 10/11/2025, 7:39:22 AM  
 
 
 
