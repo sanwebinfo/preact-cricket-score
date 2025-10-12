@@ -2,15 +2,15 @@
 title: "India vs West Indies, 2nd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - WI 221/9 (73.1)  
+🔴 Live Score - WI 248 & 25/1 (10)  
 
-📊 Run Rate - CRR: 3.02  
+📊 Run Rate - CRR: 2.5  
 
-✊ Current Batsman - Anderson Phillip - 19(65)  
+✊ Current Batsman - Alick Athanaze - 0(3)  
 
-✊ Current Bowler - Kuldeep Yadav - 22.1 Over 72 Run - 4 Wicket  
+✊ Current Bowler - Mohammed Siraj - 5 Over 4 Run - 1 Wicket  
 
-📑 Status - Day 3: 2nd Session - West Indies trail by 297 runs
+📑 Status - Day 3: 2nd Session - West Indies trail by 245 runs
 
-📝 Last Updated on : 10/12/2025, 12:20:08 PM  
+📝 Last Updated on : 10/12/2025, 1:59:49 PM  
 
