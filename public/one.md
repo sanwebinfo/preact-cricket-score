@@ -2,15 +2,15 @@
 title: "India vs West Indies, 2nd Test - Live Cricket Score"
 ---
 
-🔴 Live Score - WI 248 & 173/2 (49)  
+🔴 Live Score - WI 248 & 212/3 (64.1)  
 
-📊 Run Rate - CRR: 3.53  
+📊 Run Rate - CRR: 3.3  
 
-✊ Current Batsman - Shai Hope - 66(103)  
+✊ Current Batsman - Shai Hope - 75(137)  
 
-✊ Current Bowler - Ravindra Jadeja - 14 Over 52 Run - 0 Wicket  
+✊ Current Bowler - Mohammed Siraj - 8.1 Over 21 Run - 1 Wicket  
 
-📑 Status - Day 3: Stumps - West Indies trail by 97 runs
+📑 Status - Day 4: 1st Session - West Indies trail by 58 runs
 
-📝 Last Updated on : 10/12/2025, 5:15:37 PM  
+📝 Last Updated on : 10/13/2025, 10:44:23 AM  
 
