@@ -1,8 +1,16 @@
 ---
-title: "India vs West Indies, 2nd Test - Live Cricket Score"
+title: "Australia vs India, 1st ODI - Live Cricket Score"
 ---
 
-📑 Status - India won by 7 wkts
+🔴 Live Score - IND 25/3 (8.5)  
 
-📝 Last Updated on : 10/14/2025, 11:30:59 AM  
+📊 Run Rate - CRR: 2.83  
+
+✊ Current Batsman - Axar Patel - 0(4)  
+
+✊ Current Bowler - Nathan Ellis - 0.5 Over 0 Run - 1 Wicket  
+
+📑 Status - Rain stops play
+
+📝 Last Updated on : 10/19/2025, 9:52:52 AM  
 
