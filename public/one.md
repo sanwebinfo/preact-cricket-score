@@ -2,15 +2,7 @@
 title: "Australia vs India, 1st ODI - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 25/3 (8.5)  
+📑 Status - Australia won by 7 wkts (DLS Method)
 
-📊 Run Rate - CRR: 2.83  
-
-✊ Current Batsman - Axar Patel - 0(4)  
-
-✊ Current Bowler - Nathan Ellis - 0.5 Over 0 Run - 1 Wicket  
-
-📑 Status - Rain stops play
-
-📝 Last Updated on : 10/19/2025, 9:52:52 AM  
+📝 Last Updated on : 10/19/2025, 6:10:57 PM  
 
