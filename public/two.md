@@ -1,18 +1,18 @@
 ---
-title: "India vs West Indies, 2nd Test - Live Cricket Score"
+title: "Australia vs India, 1st ODI - Live Cricket Score"
 ---
 
-🔴 Live Score - IND 318/2 (90)  
+🔴 Live Score - IND 25/3 (8.5)  
 
-📊 Run Rate - CRR: 3.53  
+📊 Run Rate - CRR: 2.83  
 
-✊ Current Batsman - Yashasvi Jaiswal - 173(253)  
+✊ Current Batsman - Axar Patel - 0(4)  
 
-✊ Current Bowler - Anderson Phillip - 13 Over 44 Run - 0 Wicket  
+✊ Current Bowler - Nathan Ellis - 0.5 Over 0 Run - 1 Wicket  
 
-📑 Status - Day 1: Stumps
+📑 Status - Rain stops play
 
-📝 Last Updated on : 10/11/2025, 7:39:22 AM  
+📝 Last Updated on : 10/19/2025, 9:55:14 AM  
 
 
 
