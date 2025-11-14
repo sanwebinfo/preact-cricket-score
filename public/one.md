@@ -1,8 +1,8 @@
 ---
-title: "Australia vs India, 1st ODI - Live Cricket Score"
+title: "Data Not Found"
 ---
 
-📑 Status - Australia won by 7 wkts (DLS Method)
+📑 Status - Match Stats will Update Soon...
 
-📝 Last Updated on : 10/19/2025, 6:10:57 PM  
+📝 Last Updated on : 11/14/2025, 11:41:33 AM  
 
