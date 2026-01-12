@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       preact:
-        specifier: ^10.28.1
+        specifier: ^10.28.2
         version: 10.28.2
     devDependencies:
       '@preact/preset-vite':
